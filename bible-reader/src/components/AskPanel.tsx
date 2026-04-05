@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useCallback } from 'react';
+import { useState, useEffect, useRef, useCallback, type ReactNode } from 'react';
 import { useConversation } from '../hooks/useConversation';
 
 interface Props {
@@ -167,10 +167,44 @@ export function AskPanel({ isOpen, selectedText, reference, onClose }: Props) {
   );
 }
 
-/** Split double-newlines into separate paragraphs */
+/** Render inline markdown: **bold**, *italic* */
+function renderInline(text: string): ReactNode[] {
+  const parts = text.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    if (part.startsWith('*') && part.endsWith('*')) {
+      return <em key={i}>{part.slice(1, -1)}</em>;
+    }
+    return part;
+  });
+}
+
+/** Render markdown paragraphs, bullets, bold, italic */
 function formatResponse(text: string) {
   if (!text) return null;
-  const paras = text.split(/\n\n+/).filter(Boolean);
-  if (paras.length <= 1) return <p>{text}</p>;
-  return <>{paras.map((p, i) => <p key={i}>{p}</p>)}</>;
+
+  const blocks = text.split(/\n\n+/).filter(Boolean);
+
+  return (
+    <>
+      {blocks.map((block, i) => {
+        const lines = block.split('\n');
+        const isList = lines.every(l => /^[-•*]\s/.test(l.trim()) || l.trim() === '');
+
+        if (isList) {
+          return (
+            <ul key={i} className="ask-response-list">
+              {lines.filter(l => l.trim()).map((l, j) => (
+                <li key={j}>{renderInline(l.replace(/^[-•*]\s/, ''))}</li>
+              ))}
+            </ul>
+          );
+        }
+
+        return <p key={i}>{renderInline(block)}</p>;
+      })}
+    </>
+  );
 }
