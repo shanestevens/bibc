@@ -9,6 +9,7 @@ import { AskPanel } from './AskPanel';
 import { SearchModal } from './SearchModal';
 import { SettingsPanel } from './SettingsPanel';
 import { BookmarksPanel } from './BookmarksPanel';
+import { InspirationPanel } from './InspirationPanel';
 import { useTextSelection } from '../hooks/useTextSelection';
 import { useSettings } from '../hooks/useSettings';
 import { useBookmarks, savePosition, loadPosition } from '../hooks/useBookmarks';
@@ -30,6 +31,7 @@ export function BibleReader() {
   const [searchOpen, setSearchOpen] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [bookmarksOpen, setBookmarksOpen] = useState(false);
+  const [inspirationOpen, setInspirationOpen] = useState(false);
 
   const bookMeta = AVAILABLE_BOOKS.find(b => b.abbrev === bookAbbrev);
   const bookName = bookMeta?.name ?? '';
@@ -119,6 +121,16 @@ export function BibleReader() {
           <div className="header-actions">
             <button
               className="header-icon-btn"
+              aria-label="Inspiration"
+              onClick={() => setInspirationOpen(v => !v)}
+              title="Famous passages"
+            >
+              <svg viewBox="0 0 20 20" fill="currentColor" width="18" height="18">
+                <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+              </svg>
+            </button>
+            <button
+              className="header-icon-btn"
               aria-label="Search"
               onClick={() => setSearchOpen(true)}
             >
@@ -137,17 +149,17 @@ export function BibleReader() {
             </button>
             <button
               className="header-icon-btn"
-              aria-label="Bookmarks list"
-              onClick={() => setBookmarksOpen(true)}
+              aria-label="Saved bookmarks"
+              onClick={() => setBookmarksOpen(v => !v)}
             >
-              <svg viewBox="0 0 20 20" fill="currentColor" width="18" height="18">
-                <path d="M5 4a2 2 0 012-2h6a2 2 0 012 2v2H5V4zm-2 4h14v8a2 2 0 01-2 2H5a2 2 0 01-2-2V8z" />
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" width="18" height="18">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 10h16M4 14h10" />
               </svg>
             </button>
             <button
               className="header-icon-btn"
               aria-label="Settings"
-              onClick={() => setSettingsOpen(true)}
+              onClick={() => setSettingsOpen(v => !v)}
             >
               <svg viewBox="0 0 20 20" fill="currentColor" width="18" height="18">
                 <path fillRule="evenodd" d="M11.49 3.17c-.38-1.56-2.6-1.56-2.98 0a1.532 1.532 0 01-2.286.948c-1.372-.836-2.942.734-2.106 2.106.54.886.061 2.042-.947 2.287-1.561.379-1.561 2.6 0 2.978a1.532 1.532 0 01.947 2.287c-.836 1.372.734 2.942 2.106 2.106a1.532 1.532 0 012.287.947c.379 1.561 2.6 1.561 2.978 0a1.533 1.533 0 012.287-.947c1.372.836 2.942-.734 2.106-2.106a1.533 1.533 0 01.947-2.287c1.561-.379 1.561-2.6 0-2.978a1.532 1.532 0 01-.947-2.287c.836-1.372-.734-2.942-2.106-2.106a1.532 1.532 0 01-2.287-.947zM10 13a3 3 0 100-6 3 3 0 000 6z" clipRule="evenodd" />
@@ -212,6 +224,13 @@ export function BibleReader() {
         onNavigate={handleBookmarkNavigate}
         onRemove={removeBookmark}
         onClose={() => setBookmarksOpen(false)}
+      />
+
+      {/* Inspiration panel */}
+      <InspirationPanel
+        isOpen={inspirationOpen}
+        onNavigate={(abbrev, ch) => { navigate(abbrev, ch); setInspirationOpen(false); }}
+        onClose={() => setInspirationOpen(false)}
       />
     </div>
   );
