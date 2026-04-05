@@ -143,6 +143,11 @@ function stripNotes(text: string): string {
   text = text.replace(/\\f\s\+\s.*?\\f\*/g, ' ');
   text = text.replace(/\\x\s\+\s.*?\\x\*/g, ' ');
   text = text.replace(/\\fe\s.*?\\fe\*/g, ' ');
+  // Strip inline \qs Selah.\qs* (appears mid-line in poetry e.g. Habakkuk)
+  text = text.replace(/\\qs\s.*?\\qs\*/g, '');
+  // Strip known inline wrapper markers but keep their text content
+  // \bk Book Title\bk* → Book Title
+  text = text.replace(/\\bk\s/g, '').replace(/\\bk\*/g, '');
   return text;
 }
 
@@ -181,6 +186,15 @@ function parseSegments(text: string): Segment[] {
     if (isFirst) text = text.trimStart();
     if (isLast) text = text.trimEnd();
     if (!text) continue;
+
+    // If this is a whitespace-only segment between two segments, merge into the next one
+    // (avoids whitespace-only non-red segments between red-letter runs)
+    if (text.trim() === '' && result.length > 0 && i < runs.length - 1) {
+      // Append space to previous segment
+      result[result.length - 1].text += text;
+      continue;
+    }
+
     const seg: Segment = { text };
     if (runs[i].redLetter) seg.redLetter = true;
     result.push(seg);
@@ -358,7 +372,7 @@ function parseUSFM(usfmRaw: string, bookName: string, abbrev: string): BookData 
       if (rest && currentVerseNum > 0) proseSegs.push(...processInlineText(rest));
       continue;
     }
-    if (['m', 'mi', 'pm', 'pmo', 'pmc'].includes(marker)) {
+    if (['m', 'mi', 'nb', 'pm', 'pmo', 'pmc'].includes(marker)) {
       ensurePara('prose');
       if (rest && currentVerseNum > 0) proseSegs.push(...processInlineText(rest));
       continue;
@@ -447,7 +461,8 @@ function parseUSFM(usfmRaw: string, bookName: string, abbrev: string): BookData 
     const charMarkers = ['em','em*','bd','bd*','it','it*','bdit','bdit*',
       'nd','nd*','sc','sc*','add','add*','sls','sls*','tl','tl*',
       'w*','+w*','wh','wh*','+wh','+wh*',
-      'rq','rq*','sig','sig*','pn','pn*','ord','ord*'];
+      'rq','rq*','sig','sig*','pn','pn*','ord','ord*',
+      'bk','bk*','k','k*','ior','ior*','cat','cat*'];
     if (charMarkers.includes(marker)) {
       if (rest && currentVerseNum > 0) addTextToVerse(processInlineText(rest));
       continue;
