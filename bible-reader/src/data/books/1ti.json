@@ -1,0 +1,1206 @@
+{
+  "name": "1 Timothy",
+  "abbrev": "1TI",
+  "chapters": [
+    {
+      "number": 1,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "Paul, an apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ our hope,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "to Timothy, my true child in faith: Grace, mercy, and peace from God our Father and Christ Jesus our Lord."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "As I urged you when I was going into Macedonia, stay at Ephesus that you might command certain men not to teach a different doctrine,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "and not to pay attention to myths and endless genealogies, which cause disputes rather than God’s stewardship, which is in faith."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "But the goal of this command is love from a pure heart, a good conscience, and sincere faith,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "from which things some, having missed the mark, have turned away to vain talking,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "desiring to be teachers of the law, though they understand neither what they say nor about what they strongly affirm."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "But we know that the law is good if a person uses it lawfully,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "as knowing this, that law is not made for a righteous person, but for the lawless and insubordinate, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "for the sexually immoral, for homosexuals, for slave-traders, for liars, for perjurers, and for any other thing contrary to the sound doctrine,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "according to the Good News of the glory of the blessed God, which was committed to my trust."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "I thank him who enabled me, Christ Jesus our Lord, because he counted me faithful, appointing me to service,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "although I used to be a blasphemer, a persecutor, and insolent. However, I obtained mercy because I did it ignorantly in unbelief."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "The grace of our Lord abounded exceedingly with faith and love which is in Christ Jesus."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "The saying is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "However, for this cause I obtained mercy, that in me first, Jesus Christ might display all his patience for an example of those who were going to believe in him for eternal life."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 17,
+              "segments": [
+                {
+                  "text": "Now to the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 18,
+              "segments": [
+                {
+                  "text": "I commit this instruction to you, my child Timothy, according to the prophecies which were given to you before, that by them you may wage the good warfare,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 19,
+              "segments": [
+                {
+                  "text": "holding faith and a good conscience, which some having thrust away made a shipwreck concerning the faith,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 20,
+              "segments": [
+                {
+                  "text": "of whom are Hymenaeus and Alexander, whom I delivered to Satan that they might be taught not to blaspheme."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks be made for all men,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "for kings and all who are in high places, that we may lead a tranquil and quiet life in all godliness and reverence."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "For this is good and acceptable in the sight of God our Savior,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "who desires all people to be saved and come to full knowledge of the truth."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "For there is one God and one mediator between God and men, the man Christ Jesus,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "who gave himself as a ransom for all, the testimony at the proper time,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "to which I was appointed a preacher and an apostle—I am telling the truth in Christ, not lying—a teacher of the Gentiles in faith and truth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "I desire therefore that the men in every place pray, lifting up holy hands without anger and doubting."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "In the same way, that women also adorn themselves in decent clothing, with modesty and propriety, not with braided hair, gold, pearls, or expensive clothing,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "but with good works, which is appropriate for women professing godliness."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "Let a woman learn in quietness with full submission."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "But I don’t permit a woman to teach, nor to exercise authority over a man, but to be in quietness."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "For Adam was formed first, then Eve."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "Adam wasn’t deceived, but the woman, being deceived, has fallen into disobedience;"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "but she will be saved through her childbearing, if they continue in faith, love, and holiness with sobriety."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "This is a faithful saying: someone who seeks to be an overseer desires a good work."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "The overseer therefore must be without reproach, the husband of one wife, temperate, sensible, modest, hospitable, good at teaching;"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "not a drinker, not violent, not greedy for money, but gentle, not quarrelsome, not covetous;"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "one who rules his own house well, having children in subjection with all reverence;"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "(for how could someone who doesn’t know how to rule his own house take care of God’s assembly?)"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "not a new convert, lest being puffed up he fall into the same condemnation as the devil."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "Moreover he must have good testimony from those who are outside, to avoid falling into reproach and the snare of the devil."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "Servants, in the same way, must be reverent, not double-tongued, not addicted to much wine, not greedy for money,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "holding the mystery of the faith in a pure conscience."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "Let them also first be tested; then let them serve if they are blameless."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "Their wives in the same way must be reverent, not slanderers, temperate, and faithful in all things."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "Let servants be husbands of one wife, ruling their children and their own houses well."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "For those who have served well gain for themselves a good standing and great boldness in the faith which is in Christ Jesus."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "These things I write to you, hoping to come to you shortly,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "but if I wait long, that you may know how men ought to behave themselves in God’s house, which is the assembly of the living God, the pillar and ground of the truth."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "Without controversy, the mystery of godliness is great:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "For every creature of God is good, and nothing is to be rejected if it is received with thanksgiving."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "For it is sanctified through the word of God and prayer."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "If you instruct the brothers of these things, you will be a good servant of Christ Jesus, nourished in the words of the faith and of the good doctrine which you have followed."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "But refuse profane and old wives’ fables. Exercise yourself toward godliness."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "For bodily exercise has some value, but godliness has value in all things, having the promise of the life which is now and of that which is to come."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "This saying is faithful and worthy of all acceptance."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "For to this end we both labor and suffer reproach, because we have set our trust in the living God, who is the Savior of all men, especially of those who believe."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "Command and teach these things."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "Let no man despise your youth; but be an example to those who believe, in word, in your way of life, in love, in spirit, in faith, and in purity."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "Until I come, pay attention to reading, to exhortation, and to teaching."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "Don’t neglect the gift that is in you, which was given to you by prophecy with the laying on of the hands of the elders."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "Don’t rebuke an older man, but exhort him as a father; the younger men as brothers;"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "the elder women as mothers; the younger as sisters, in all purity."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "Honor widows who are widows indeed."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "But if any widow has children or grandchildren, let them learn first to show piety toward their own family and to repay their parents, for this is acceptable in the sight of God."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "Now she who is a widow indeed and desolate, has her hope set on God and continues in petitions and prayers night and day."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "But she who gives herself to pleasure is dead while she lives."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "Also command these things, that they may be without reproach."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "But if anyone doesn’t provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "Let no one be enrolled as a widow under sixty years old, having been the wife of one man,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "being approved by good works, if she has brought up children, if she has been hospitable to strangers, if she has washed the saints’ feet, if she has relieved the afflicted, and if she has diligently followed every good work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "But refuse younger widows, for when they have grown wanton against Christ, they desire to marry,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "having condemnation, because they have rejected their first pledge."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "Besides, they also learn to be idle, going about from house to house. Not only idle, but also gossips and busybodies, saying things which they ought not."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "I desire therefore that the younger widows marry, bear children, rule the household, and give no occasion to the adversary for insulting."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "For already some have turned away after Satan."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "If any man or woman who believes has widows, let them relieve them, and don’t let the assembly be burdened, that it might relieve those who are widows indeed."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 17,
+              "segments": [
+                {
+                  "text": "Let the elders who rule well be counted worthy of double honor, especially those who labor in the word and in teaching."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 18,
+              "segments": [
+                {
+                  "text": "For the Scripture says, “You shall not muzzle the ox when it treads out the grain.” And, "
+                },
+                {
+                  "text": "“The laborer is worthy of his wages.”",
+                  "redLetter": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 19,
+              "segments": [
+                {
+                  "text": "Don’t receive an accusation against an elder except at the word of two or three witnesses."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 20,
+              "segments": [
+                {
+                  "text": "Those who sin, reprove in the sight of all, that the rest also may be in fear."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 21,
+              "segments": [
+                {
+                  "text": "I command you in the sight of God, and the Lord Jesus Christ, and the chosen angels, that you observe these things without prejudice, doing nothing by partiality."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 22,
+              "segments": [
+                {
+                  "text": "Lay hands hastily on no one. Don’t be a participant in other people’s sins. Keep yourself pure."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 23,
+              "segments": [
+                {
+                  "text": "Be no longer a drinker of water only, but use a little wine for your stomach’s sake and your frequent infirmities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 24,
+              "segments": [
+                {
+                  "text": "Some men’s sins are evident, preceding them to judgment, and some also follow later."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 25,
+              "segments": [
+                {
+                  "text": "In the same way also there are good works that are obvious, and those that are otherwise can’t be hidden."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "Let as many as are bondservants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine not be blasphemed."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "Those who have believing masters, let them not despise them because they are brothers, but rather let them serve them, because those who partake of the benefit are believing and beloved. Teach and exhort these things."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "If anyone teaches a different doctrine and doesn’t consent to sound words, the words of our Lord Jesus Christ, and to the doctrine which is according to godliness,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "he is conceited, knowing nothing, but obsessed with arguments, disputes, and word battles, from which come envy, strife, insulting, evil suspicions,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "constant friction of people of corrupt minds and destitute of the truth, who suppose that godliness is a means of gain. Withdraw yourself from such."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "But godliness with contentment is great gain."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "For we brought nothing into the world, and we certainly can’t carry anything out."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "But having food and clothing, we will be content with that."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "But those who are determined to be rich fall into a temptation, a snare, and many foolish and harmful lusts, such as drown men in ruin and destruction."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "For the love of money is a root of all kinds of evil. Some have been led astray from the faith in their greed, and have pierced themselves through with many sorrows."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "But you, man of God, flee these things, and follow after righteousness, godliness, faith, love, perseverance, and gentleness."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "Fight the good fight of faith. Take hold of the eternal life to which you were called, and you confessed the good confession in the sight of many witnesses."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "I command you before God who gives life to all things, and before Christ Jesus who before Pontius Pilate testified the good confession,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "that you keep the commandment without spot, blameless until the appearing of our Lord Jesus Christ,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "which at the right time he will show, who is the blessed and only Ruler, the King of kings and Lord of lords."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "He alone has immortality, dwelling in unapproachable light, whom no man has seen nor can see, to whom be honor and eternal power. Amen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 17,
+              "segments": [
+                {
+                  "text": "Charge those who are rich in this present age that they not be arrogant, nor have their hope set on the uncertainty of riches, but on the living God, who richly provides us with everything to enjoy;"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 18,
+              "segments": [
+                {
+                  "text": "that they do good, that they be rich in good works, that they be ready to distribute, willing to share;"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 19,
+              "segments": [
+                {
+                  "text": "laying up in store for themselves a good foundation against the time to come, that they may lay hold of eternal life."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 20,
+              "segments": [
+                {
+                  "text": "Timothy, guard that which is committed to you, turning away from the empty chatter and oppositions of what is falsely called knowledge,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 21,
+              "segments": [
+                {
+                  "text": "which some profess, and thus have wandered from the faith."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 21,
+              "segments": [
+                {
+                  "text": "Grace be with you. Amen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
