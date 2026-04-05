@@ -76,6 +76,18 @@ body {
   text-indent: 0;
 }
 
+/* Genealogy / list-style paragraphs — each verse on its own line */
+.prose-list {
+  text-indent: 0;
+}
+
+.prose-list-item {
+  display: block;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+  line-height: 1.85;
+}
+
 /* Poetry */
 .poetry-block {
   margin: 0.5em 0 0.75em 0;
