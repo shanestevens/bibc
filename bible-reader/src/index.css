@@ -304,11 +304,11 @@ body {
   content: '';
   position: absolute;
   left: 50%;
-  bottom: -5px;
+  top: -5px;
   transform: translateX(-50%);
   border: 5px solid transparent;
-  border-top-color: var(--color-ink-800);
-  border-bottom: none;
+  border-bottom-color: var(--color-ink-800);
+  border-top: none;
 }
 
 .selection-btn:hover {

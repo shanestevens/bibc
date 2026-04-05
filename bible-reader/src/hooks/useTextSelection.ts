@@ -75,12 +75,12 @@ export function useTextSelection(
       const verseNums = extractVerseNums(el, range);
       const reference = buildReference(bookName, chapterNum, verseNums);
 
-      // Position button centered above the selection, respecting viewport edges
+      // Position button centered below the selection (iOS system menu appears above)
       const btnW = 160; // approximate button width
       const margin = 8;
       const rawX = rect.left + rect.width / 2 - btnW / 2;
       const clampedX = Math.max(margin, Math.min(rawX, window.innerWidth - btnW - margin));
-      const btnY = Math.max(margin, rect.top - 48);
+      const btnY = rect.bottom + 12;
 
       setSelection({ text, reference, buttonX: clampedX, buttonY: btnY });
     }
