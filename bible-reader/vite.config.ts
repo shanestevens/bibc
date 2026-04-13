@@ -9,29 +9,9 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: 'autoUpdate',
+      injectRegister: false,
       includeAssets: ['favicon.svg', 'icons/*.png'],
-      manifest: {
-        name: 'Bible Reader',
-        short_name: 'Bible',
-        description: 'A beautiful Bible reader with AI explanations',
-        theme_color: '#f5f0e4',
-        background_color: '#faf8f3',
-        display: 'standalone',
-        orientation: 'portrait',
-        icons: [
-          {
-            src: '/icons/icon-192.png',
-            sizes: '192x192',
-            type: 'image/png',
-          },
-          {
-            src: '/icons/icon-512.png',
-            sizes: '512x512',
-            type: 'image/png',
-            purpose: 'any maskable',
-          },
-        ],
-      },
+      manifest: false,
       workbox: {
         // Cache book JSON files for offline reading
         runtimeCaching: [
