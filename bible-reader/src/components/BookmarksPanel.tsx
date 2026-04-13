@@ -20,7 +20,7 @@ export function BookmarksPanel({ isOpen, bookmarks, onNavigate, onRemove, onClos
           <button className="ask-close" onClick={onClose}>✕</button>
         </div>
         {bookmarks.length === 0 ? (
-          <p className="bookmarks-empty">No bookmarks yet — tap the bookmark icon while reading to save your place.</p>
+          <p className="bookmarks-empty">No bookmarks yet — highlight a passage and tap the bookmark icon to save it.</p>
         ) : (
           <div className="bookmarks-list">
             {bookmarks.map(b => (
@@ -29,16 +29,19 @@ export function BookmarksPanel({ isOpen, bookmarks, onNavigate, onRemove, onClos
                   className="bookmark-nav"
                   onClick={() => { onNavigate(b.bookAbbrev, b.chapterNum); onClose(); }}
                 >
-                  <span className="bookmark-title">{b.bookName} {b.chapterNum}</span>
+                  <span className="bookmark-title">{b.reference}</span>
+                  {b.selectedText && (
+                    <span className="bookmark-passage">
+                      {b.selectedText.length > 80 ? b.selectedText.slice(0, 80) + '…' : b.selectedText}
+                    </span>
+                  )}
                   <span className="bookmark-date">{new Date(b.savedAt).toLocaleDateString()}</span>
                 </button>
                 <button
                   className="bookmark-remove"
                   onClick={() => onRemove(b.id)}
                   aria-label="Remove bookmark"
-                >
-                  ✕
-                </button>
+                >✕</button>
               </div>
             ))}
           </div>

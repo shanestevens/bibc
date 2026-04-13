@@ -25,3 +25,7 @@ usfm/
 *.njsproj
 *.sln
 *.sw?
+
+.netlify
+.vercel
+supabase/.temp/

@@ -1,13 +1,16 @@
 import type { ChapterData } from '../lib/types';
+import type { BookmarkedVerseSelection } from '../lib/bookmark-selection';
 import { ProseParagraph } from './ProseParagraph';
 import { PoetryParagraph } from './PoetryParagraph';
 
 interface Props {
   bookName: string;
   chapter: ChapterData;
+  bookmarkedVerseSelections?: Map<number, BookmarkedVerseSelection>;
+  onBookmarkedVerseClick?: (bookmark: BookmarkedVerseSelection, event: React.MouseEvent<HTMLElement>) => void;
 }
 
-export function ChapterView({ bookName, chapter }: Props) {
+export function ChapterView({ bookName, chapter, bookmarkedVerseSelections, onBookmarkedVerseClick }: Props) {
   return (
     <article className="chapter-view">
       <h2 className="chapter-heading">
@@ -22,10 +25,19 @@ export function ChapterView({ bookName, chapter }: Props) {
               key={i}
               paragraph={para}
               isFirst={i === 0}
+              bookmarkedVerseSelections={bookmarkedVerseSelections}
+              onBookmarkedVerseClick={onBookmarkedVerseClick}
             />
           );
         }
-        return <PoetryParagraph key={i} paragraph={para} />;
+        return (
+          <PoetryParagraph
+            key={i}
+            paragraph={para}
+            bookmarkedVerseSelections={bookmarkedVerseSelections}
+            onBookmarkedVerseClick={onBookmarkedVerseClick}
+          />
+        );
       })}
     </article>
   );

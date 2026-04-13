@@ -14,15 +14,19 @@ export interface ApiMessage {
  */
 export async function streamAsk(
   messages: ApiMessage[],
+  accessToken: string | null,
   onChunk: (text: string) => void,
   onDone: (fullText: string) => void,
   onError: (err: string) => void,
 ): Promise<void> {
+  const headers: Record<string, string> = { 'content-type': 'application/json' };
+  if (accessToken) headers['authorization'] = `Bearer ${accessToken}`;
+
   let response: Response;
   try {
     response = await fetch('/api/ask', {
       method: 'POST',
-      headers: { 'content-type': 'application/json' },
+      headers,
       body: JSON.stringify({ messages }),
     });
   } catch {
@@ -32,7 +36,9 @@ export async function streamAsk(
 
   if (!response.ok) {
     const body = await response.json().catch(() => ({ error: `Server error ${response.status}` }));
-    onError((body as { error?: string }).error ?? `Server error ${response.status}`);
+    const msg = (body as { error?: string }).error ?? `Server error ${response.status}`;
+    const isMonthlyQuota = response.status === 429 && msg.toLowerCase().includes('monthly question limit');
+    onError(isMonthlyQuota ? 'QUOTA_EXCEEDED' : msg);
     return;
   }
 
