@@ -723,8 +723,11 @@ body {
   .ask-suggestions,
   .ask-followups {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0.45rem;
+    grid-template-columns: 1fr;
+    gap: 0.55rem;
+    width: 100%;
+    max-width: 24rem;
+    margin: 0 auto;
     padding: 0.45rem 0 0.65rem;
   }
 
@@ -740,6 +743,14 @@ body {
     font-size: 0.78rem;
     line-height: 1.2;
     text-align: center;
+  }
+}
+
+@media (min-width: 431px) and (max-width: 560px) {
+  .ask-suggestions,
+  .ask-followups {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-width: none;
   }
 }
 

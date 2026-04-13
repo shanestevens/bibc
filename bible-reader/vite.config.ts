@@ -13,6 +13,8 @@ export default defineConfig({
       includeAssets: ['favicon.svg', 'icons/*.png'],
       manifest: false,
       workbox: {
+        skipWaiting: true,
+        clientsClaim: true,
         // Cache book JSON files for offline reading
         runtimeCaching: [
           {
@@ -48,6 +50,9 @@ export default defineConfig({
       },
     }),
   ],
+  build: {
+    cssTarget: 'safari15',
+  },
   server: {
     proxy: {
       '/api': 'http://localhost:3001',
