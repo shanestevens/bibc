@@ -5,6 +5,8 @@ import { supabase } from '../lib/supabase';
 
 const ANON_COUNT_KEY = 'bib_anon_questions';
 const ENFORCE_MONTHLY_QUOTA = import.meta.env.PROD || import.meta.env.VITE_ENFORCE_QUESTION_QUOTA === 'true';
+const MAX_INTERACTIONS = 10;
+const MAX_COMPLETED_MESSAGES = MAX_INTERACTIONS * 2;
 
 export function getAnonCount(): number {
   return parseInt(localStorage.getItem(ANON_COUNT_KEY) ?? '0', 10);
@@ -33,6 +35,41 @@ async function hasMonthlyQuotaRemaining(userId: string): Promise<boolean> {
 export interface ConversationMessage {
   role: 'user' | 'assistant';
   content: string;
+}
+
+function trimConversationMessages(
+  messages: ConversationMessage[],
+  maxMessages = MAX_COMPLETED_MESSAGES,
+): ConversationMessage[] {
+  let trimmed = messages.slice(-maxMessages);
+
+  // Keep the transcript valid for chat APIs and display by starting on a user turn.
+  while (trimmed.length > 0 && trimmed[0].role === 'assistant') {
+    trimmed = trimmed.slice(1);
+  }
+
+  return trimmed;
+}
+
+function buildApiHistory(
+  messages: ConversationMessage[],
+  passage: { selectedText: string; reference: string } | null,
+): ApiMessage[] {
+  const maxMessages = messages.at(-1)?.role === 'user'
+    ? MAX_COMPLETED_MESSAGES - 1
+    : MAX_COMPLETED_MESSAGES;
+  const trimmed = trimConversationMessages(messages, maxMessages);
+
+  return trimmed.map((message, index) => {
+    if (message.role === 'user' && index === 0 && passage) {
+      return {
+        role: message.role,
+        content: buildInitialUserMessage(passage.selectedText, passage.reference, message.content),
+      };
+    }
+
+    return { role: message.role, content: message.content };
+  });
 }
 
 async function saveConversation(
@@ -121,20 +158,13 @@ export function useConversation(opts?: {
         passageRef.current = { selectedText, reference };
       }
 
-      const userContent =
-        selectedText && reference
-          ? buildInitialUserMessage(selectedText, reference, question)
-          : question;
-
       const previousMessages = messagesRef.current;
-      const history: ApiMessage[] = [
-        ...previousMessages.map(m => ({ role: m.role, content: m.content })),
-        { role: 'user' as const, content: userContent },
-      ];
-
-      const userMsg: ConversationMessage = { role: 'user', content: userContent };
+      const userMsg: ConversationMessage = { role: 'user', content: question.trim() };
+      const history = buildApiHistory([...previousMessages, userMsg], passageRef.current);
       const placeholder: ConversationMessage = { role: 'assistant', content: '' };
-      setMessages(prev => [...prev, userMsg, placeholder]);
+      const pendingMessages = trimConversationMessages([...previousMessages, userMsg, placeholder]);
+      setMessages(pendingMessages);
+      messagesRef.current = pendingMessages;
       setStreaming(true);
 
       let accumulated = '';
@@ -148,17 +178,19 @@ export function useConversation(opts?: {
           setMessages(prev => {
             const updated = [...prev];
             updated[updated.length - 1] = { role: 'assistant', content: text };
+            messagesRef.current = updated;
             return updated;
           });
         },
         (fullText) => {
           setStreaming(false);
           inFlightRef.current = false;
-          const finalMessages: ConversationMessage[] = [
+          const finalMessages = trimConversationMessages([
             ...messagesRef.current.slice(0, -1),
             { role: 'assistant', content: fullText },
-          ];
+          ]);
           setMessages(finalMessages);
+          messagesRef.current = finalMessages;
 
           // Save conversation to Supabase for logged-in users
           if (opts?.userId && passageRef.current && opts.bookAbbrev && opts.chapterNum) {
@@ -168,7 +200,7 @@ export function useConversation(opts?: {
               passageRef.current.selectedText,
               opts.bookAbbrev,
               opts.chapterNum,
-              [...messagesRef.current.slice(0, -1), { role: 'assistant', content: fullText }],
+              finalMessages,
             );
           }
         },
@@ -177,9 +209,14 @@ export function useConversation(opts?: {
           inFlightRef.current = false;
           if (err === 'QUOTA_EXCEEDED') {
             setMessages(previousMessages);
+            messagesRef.current = previousMessages;
             opts?.onFreeLimitReached?.();
           } else {
-            setMessages(prev => prev.slice(0, -1));
+            setMessages(prev => {
+              const updated = trimConversationMessages(prev.slice(0, -1));
+              messagesRef.current = updated;
+              return updated;
+            });
             setError(err);
           }
         },

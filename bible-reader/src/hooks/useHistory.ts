@@ -1,6 +1,8 @@
 import { useState, useCallback } from 'react';
 import { supabase } from '../lib/supabase';
 
+const MAX_HISTORY_MESSAGES = 20;
+
 export interface HistoryMessage {
   role: 'user' | 'assistant';
   content: string;
@@ -14,6 +16,14 @@ export interface HistoryEntry {
   chapterNum: number;
   createdAt: string;
   messages: HistoryMessage[];
+}
+
+function trimHistoryMessages(messages: HistoryMessage[]): HistoryMessage[] {
+  let trimmed = messages.slice(-MAX_HISTORY_MESSAGES);
+  while (trimmed.length > 0 && trimmed[0].role === 'assistant') {
+    trimmed = trimmed.slice(1);
+  }
+  return trimmed;
 }
 
 export function useHistory(userId?: string | null) {
@@ -42,9 +52,12 @@ export function useHistory(userId?: string | null) {
       bookAbbrev: c.book_abbrev,
       chapterNum: c.chapter_num,
       createdAt: c.created_at,
-      messages: (c.conversation_messages as { role: string; content: string; created_at: string }[])
-        .sort((a, b) => a.created_at.localeCompare(b.created_at))
-        .map(m => ({ role: m.role as 'user' | 'assistant', content: m.content })),
+      messages: trimHistoryMessages(
+        (c.conversation_messages as { role: string; content: string; created_at: string }[])
+          .sort((a, b) => a.created_at.localeCompare(b.created_at))
+          .filter(m => m.role === 'user' || m.role === 'assistant')
+          .map(m => ({ role: m.role as 'user' | 'assistant', content: m.content })),
+      ),
     })));
   }, [userId]);
 
