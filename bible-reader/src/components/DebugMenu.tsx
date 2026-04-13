@@ -26,14 +26,14 @@ export function DebugMenu({ userId, onMonthlyLimitReached }: Props) {
     flash(`Anon counter set to ${ANON_LIMIT} — next question will trigger auth modal`);
   };
 
-  const updateMonthlyQuota = async (action: 'reset' | 'limit'): Promise<boolean> => {
+  const resetMonthlyQuota = async () => {
     if (!userId) { flash('Not logged in'); return false; }
 
     try {
       const response = await fetch('/api/debug/usage', {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ action, userId }),
+        body: JSON.stringify({ action: 'reset', userId }),
       });
 
       if (!response.ok) {
@@ -42,9 +42,7 @@ export function DebugMenu({ userId, onMonthlyLimitReached }: Props) {
         return false;
       }
 
-      flash(action === 'reset'
-        ? 'Monthly quota reset to 0'
-        : `Monthly quota set to ${FREE_LIMIT}`);
+      flash('Monthly quota reset to 0');
       return true;
     } catch {
       flash('Debug API unavailable. Is the local server running?');
@@ -52,13 +50,9 @@ export function DebugMenu({ userId, onMonthlyLimitReached }: Props) {
     }
   };
 
-  const resetMonthlyQuota = async () => {
-    await updateMonthlyQuota('reset');
-  };
-
   const setQuotaToLimit = async () => {
-    const updated = await updateMonthlyQuota('limit');
-    if (updated) onMonthlyLimitReached?.();
+    flash('Monthly limit dialog shown');
+    onMonthlyLimitReached?.();
   };
 
   return (

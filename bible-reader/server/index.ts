@@ -109,18 +109,13 @@ app.post('/api/debug/usage', async (req, res) => {
   }
 
   const { action, userId } = req.body as { action?: unknown; userId?: unknown };
-  if ((action !== 'reset' && action !== 'limit') || typeof userId !== 'string') {
+  if (action !== 'reset' || typeof userId !== 'string') {
     res.status(400).json({ error: 'Invalid debug usage request.' });
     return;
   }
 
   const month = CURRENT_MONTH();
-  const result = action === 'reset'
-    ? await supabase.from('user_usage').delete().eq('user_id', userId).eq('month', month)
-    : await supabase.from('user_usage').upsert(
-        { user_id: userId, month, question_count: FREE_MONTHLY_LIMIT },
-        { onConflict: 'user_id,month' },
-      );
+  const result = await supabase.from('user_usage').delete().eq('user_id', userId).eq('month', month);
 
   if (result.error) {
     console.error('Debug usage update error:', result.error.message);
