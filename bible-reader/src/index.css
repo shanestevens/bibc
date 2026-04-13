@@ -262,6 +262,7 @@ body {
 
 .book-picker-wrapper {
   flex: 1;
+  min-width: 0;
 }
 
 .book-picker-select {
@@ -862,6 +863,52 @@ body {
 
 .header-icon-btn--active {
   color: var(--color-ink-800);
+}
+
+@media (max-width: 560px) {
+  .reader-header {
+    padding: 0.6rem 0.85rem;
+  }
+
+  .reader-header-inner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.5rem;
+  }
+
+  .book-picker-wrapper {
+    min-width: 0;
+  }
+
+  .book-picker-select,
+  .chapter-nav-select {
+    min-height: 44px;
+  }
+
+  .chapter-nav {
+    gap: 0.3rem;
+    justify-self: end;
+  }
+
+  .chapter-nav-arrow {
+    min-width: 2.25rem;
+    min-height: 44px;
+  }
+
+  .chapter-nav-select {
+    width: 3.75rem;
+  }
+
+  .header-actions {
+    grid-column: 1 / -1;
+    justify-content: space-around;
+    padding-top: 0.1rem;
+  }
+
+  .header-icon-btn {
+    width: 44px;
+    height: 40px;
+  }
 }
 
 /* ─── Inspiration panel ───────────────────────────────────────────────────── */
