@@ -705,6 +705,44 @@ body {
   color: #7a4010;
 }
 
+@media (max-width: 560px) {
+  .ask-panel {
+    max-height: 78svh;
+  }
+
+  .ask-quote {
+    margin: 0.45rem 1rem 0.6rem;
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  .ask-body {
+    padding: 0 1rem 0.5rem;
+  }
+
+  .ask-suggestions,
+  .ask-followups {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.45rem;
+    padding: 0.45rem 0 0.65rem;
+  }
+
+  .ask-suggestion-btn,
+  .ask-followup-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: none;
+    min-height: 44px;
+    padding: 0.5rem 0.55rem;
+    font-size: 0.78rem;
+    line-height: 1.2;
+    text-align: center;
+  }
+}
+
 /* Input row */
 .ask-input-row {
   display: flex;

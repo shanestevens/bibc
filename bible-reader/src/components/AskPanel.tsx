@@ -18,10 +18,10 @@ interface Props {
 }
 
 const SUGGESTED = [
-  'What does this mean?',
-  'Historical context?',
-  'Explain simply',
-  'Why is this significant?',
+  'What does it mean?',
+  "What's the context?",
+  'Make it simple',
+  'Why does it matter?',
 ] as const;
 
 /** Split follow-up suggestions out of a response. Returns { body, followUps }. */
