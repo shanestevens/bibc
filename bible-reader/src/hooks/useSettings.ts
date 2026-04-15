@@ -1,14 +1,17 @@
 import { useState, useEffect } from 'react';
+import type { TranslationId } from '../lib/translations';
 
 export type Theme = 'light' | 'dark';
 export type FontSize = 'sm' | 'md' | 'lg';
+export type { TranslationId };
 
 interface Settings {
   theme: Theme;
   fontSize: FontSize;
+  translation: TranslationId;
 }
 
-const DEFAULTS: Settings = { theme: 'light', fontSize: 'md' };
+const DEFAULTS: Settings = { theme: 'light', fontSize: 'md', translation: 'web' };
 
 function load(): Settings {
   try {
@@ -40,6 +43,7 @@ export function useSettings() {
 
   const setTheme = (theme: Theme) => setSettings(s => ({ ...s, theme }));
   const setFontSize = (fontSize: FontSize) => setSettings(s => ({ ...s, fontSize }));
+  const setTranslation = (translation: TranslationId) => setSettings(s => ({ ...s, translation }));
 
-  return { ...settings, setTheme, setFontSize };
+  return { ...settings, setTheme, setFontSize, setTranslation };
 }

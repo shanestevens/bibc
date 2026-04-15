@@ -1,4 +1,5 @@
 import type { BookData } from './types';
+import type { TranslationId } from './translations';
 
 export interface BookMeta {
   name: string;
@@ -79,10 +80,11 @@ export const AVAILABLE_BOOKS: BookMeta[] = [
 
 const cache = new Map<string, BookData>();
 
-export async function loadBook(abbrev: string): Promise<BookData> {
-  if (cache.has(abbrev)) return cache.get(abbrev)!;
-  const mod = await import(`../data/books/${abbrev.toLowerCase()}.json`);
+export async function loadBook(abbrev: string, translation: TranslationId = 'web'): Promise<BookData> {
+  const key = `${translation}:${abbrev}`;
+  if (cache.has(key)) return cache.get(key)!;
+  const mod = await import(`../data/books/${translation}/${abbrev.toLowerCase()}.json`);
   const book = mod.default as BookData;
-  cache.set(abbrev, book);
+  cache.set(key, book);
   return book;
 }

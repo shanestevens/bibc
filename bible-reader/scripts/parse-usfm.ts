@@ -1,8 +1,16 @@
 #!/usr/bin/env tsx
 /**
  * parse-usfm.ts
- * Converts WEB USFM files to structured JSON for the Bible reader.
- * Run: npx tsx scripts/parse-usfm.ts
+ * Converts USFM files to structured JSON for the Bible reader.
+ * Usage:
+ *   npx tsx scripts/parse-usfm.ts [translation]
+ *
+ * translation: web | kjv | asv  (default: web)
+ *
+ * USFM source directory: usfm-{translation}/  (e.g. usfm-kjv/)
+ * For 'web' the directory is just 'usfm/' for backward compatibility.
+ * Output books:    src/data/books/{translation}/*.json
+ * Output index:    public/search-index-{translation}.json
  */
 
 import * as fs from 'fs';
@@ -11,9 +19,25 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, '..');
-const USFM_DIR = path.join(ROOT, 'usfm');
-const OUT_DIR = path.join(ROOT, 'src', 'data', 'books');
-const SEARCH_OUT = path.join(ROOT, 'public', 'search-index.json');
+
+const VALID_TRANSLATIONS = ['web', 'kjv', 'asv'] as const;
+type TranslationId = typeof VALID_TRANSLATIONS[number];
+
+const translation = (process.argv[2] ?? 'web') as TranslationId;
+if (!VALID_TRANSLATIONS.includes(translation)) {
+  console.error(`Unknown translation "${translation}". Valid options: ${VALID_TRANSLATIONS.join(', ')}`);
+  process.exit(1);
+}
+
+// WEB keeps its legacy 'usfm/' directory; others use 'usfm-{id}/'
+const USFM_DIR = path.join(ROOT, translation === 'web' ? 'usfm' : `usfm-${translation}`);
+const OUT_DIR = path.join(ROOT, 'src', 'data', 'books', translation);
+const SEARCH_OUT = path.join(ROOT, 'public', `search-index-${translation}.json`);
+
+console.log(`Translation : ${translation.toUpperCase()}`);
+console.log(`USFM source : ${USFM_DIR}`);
+console.log(`Output dir  : ${OUT_DIR}`);
+console.log(`Search index: ${SEARCH_OUT}\n`);
 
 // All 66 canonical books — key is USFM abbrev, prefix matches filename
 const TARGET_BOOKS: Record<string, { name: string; prefix: string }> = {
@@ -521,6 +545,8 @@ function verseText(verse: ProseVerse | PoetryVerse): string {
     return verse.lines.map(l => l.segments.map(s => s.text).join('')).join(' ').trim();
   }
 }
+
+fs.mkdirSync(OUT_DIR, { recursive: true });
 
 let parsed = 0;
 let failed = 0;

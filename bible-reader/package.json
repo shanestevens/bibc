@@ -10,7 +10,10 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "parse": "tsx scripts/parse-usfm.ts"
+    "parse": "tsx scripts/parse-usfm.ts web",
+    "parse:kjv": "tsx scripts/parse-usfm.ts kjv",
+    "parse:asv": "tsx scripts/parse-usfm.ts asv",
+    "parse:all": "npm run parse && npm run parse:kjv && npm run parse:asv"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.82.0",
