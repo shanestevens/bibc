@@ -16,13 +16,17 @@ import { UserMenu } from './UserMenu';
 import { DebugMenu } from './DebugMenu';
 import { useTextSelection, type SelectionData } from '../hooks/useTextSelection';
 import { useSettings } from '../hooks/useSettings';
+import { useTranslationAvailability } from '../hooks/useTranslationAvailability';
 import { useBookmarks, savePosition, loadPosition } from '../hooks/useBookmarks';
 import { useAuth } from '../hooks/useAuth';
 import { useHistory } from '../hooks/useHistory';
 import type { BookmarkedVerseSelection } from '../lib/bookmark-selection';
 
 export function BibleReader() {
-  const { theme, fontSize, translation, setTheme, setFontSize, setTranslation } = useSettings();
+  const { theme, fontSize, translation: savedTranslation, setTheme, setFontSize, setTranslation } = useSettings();
+  const availableTranslations = useTranslationAvailability();
+  // Fall back to WEB if a previously-saved translation has no data yet
+  const translation = availableTranslations.has(savedTranslation) ? savedTranslation : 'web';
   const auth = useAuth();
   const { bookmarks, isBookmarked, add: addBookmark, remove: removeBookmark } = useBookmarks(auth.user?.id);
   const { entries: historyEntries, loading: historyLoading, load: loadHistory, remove: removeHistory } = useHistory(auth.user?.id);
@@ -319,6 +323,7 @@ export function BibleReader() {
         theme={theme}
         fontSize={fontSize}
         translation={translation}
+        availableTranslations={availableTranslations}
         onTheme={setTheme}
         onFontSize={setFontSize}
         onTranslation={setTranslation}

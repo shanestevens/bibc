@@ -1100,6 +1100,14 @@ body {
 .settings-toggle--sm { font-size: 0.72rem; }
 .settings-toggle--lg { font-size: 1rem; }
 
+.settings-toggle--disabled {
+  opacity: 0.38;
+  cursor: not-allowed;
+}
+.settings-toggle--disabled:hover {
+  background: var(--color-parchment-100);
+}
+
 /* ─── Bookmarks panel ─────────────────────────────────────────────────────── */
 
 .bookmarks-panel {

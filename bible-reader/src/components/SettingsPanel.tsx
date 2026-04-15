@@ -6,13 +6,14 @@ interface Props {
   theme: Theme;
   fontSize: FontSize;
   translation: TranslationId;
+  availableTranslations: Set<TranslationId>;
   onTheme: (t: Theme) => void;
   onFontSize: (f: FontSize) => void;
   onTranslation: (t: TranslationId) => void;
   onClose: () => void;
 }
 
-export function SettingsPanel({ isOpen, theme, fontSize, translation, onTheme, onFontSize, onTranslation, onClose }: Props) {
+export function SettingsPanel({ isOpen, theme, fontSize, translation, availableTranslations, onTheme, onFontSize, onTranslation, onClose }: Props) {
   if (!isOpen) return null;
 
   return (
@@ -64,16 +65,20 @@ export function SettingsPanel({ isOpen, theme, fontSize, translation, onTheme, o
         <div className="settings-row">
           <span className="settings-label">Translation</span>
           <div className="settings-toggle-group">
-            {TRANSLATIONS.map(t => (
-              <button
-                key={t.id}
-                className={`settings-toggle ${translation === t.id ? 'settings-toggle--active' : ''}`}
-                onClick={() => onTranslation(t.id)}
-                title={`${t.fullName} (${t.year})`}
-              >
-                {t.name}
-              </button>
-            ))}
+            {TRANSLATIONS.map(t => {
+              const isAvailable = availableTranslations.has(t.id);
+              return (
+                <button
+                  key={t.id}
+                  className={`settings-toggle ${translation === t.id ? 'settings-toggle--active' : ''} ${!isAvailable ? 'settings-toggle--disabled' : ''}`}
+                  onClick={() => isAvailable && onTranslation(t.id)}
+                  disabled={!isAvailable}
+                  title={isAvailable ? `${t.fullName} (${t.year})` : `${t.fullName} — coming soon`}
+                >
+                  {t.name}
+                </button>
+              );
+            })}
           </div>
         </div>
       </div>
