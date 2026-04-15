@@ -3,12 +3,13 @@ import { useSearch, type SearchResult } from '../hooks/useSearch';
 
 interface Props {
   isOpen: boolean;
+  translation: string;
   onClose: () => void;
   onNavigate: (bookAbbrev: string, chapterNum: number) => void;
 }
 
-export function SearchModal({ isOpen, onClose, onNavigate }: Props) {
-  const { query, results, loading, indexReady, handleQuery, clear } = useSearch();
+export function SearchModal({ isOpen, translation, onClose, onNavigate }: Props) {
+  const { query, results, loading, indexReady, handleQuery, clear } = useSearch(translation);
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {

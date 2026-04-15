@@ -1,0 +1,3655 @@
+{
+  "name": "Micah",
+  "abbrev": "MIC",
+  "chapters": [
+    {
+      "number": 1,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "The LORD’s word that came to Micah of Morasheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Hear, you peoples, all of you!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Listen, O earth, and all that is therein."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let the Lord GOD be witness against you,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the Lord from his holy temple."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For behold, the LORD comes out of his place,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will come down and tread on the high places of the earth."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The mountains melt under him,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the valleys split apart like wax before the fire,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like waters that are poured down a steep place."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“All this is for the disobedience of Jacob,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and for the sins of the house of Israel."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "What is the disobedience of Jacob?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Isn’t it Samaria?"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "And what are the high places of Judah?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Aren’t they Jerusalem?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Therefore I will make Samaria like a rubble heap of the field,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like places for planting vineyards;"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "and I will pour down its stones into the valley,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and I will uncover its foundations."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "All her idols will be beaten to pieces,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "all her temple gifts will be burned with fire,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and I will destroy all her images;"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "for of the hire of a prostitute has she gathered them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and to the hire of a prostitute shall they return.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For this I will lament and wail."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will go stripped and naked."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will howl like the jackals"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and mourn like the ostriches."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For her wounds are incurable;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for it has come even to Judah."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "It reaches to the gate of my people,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "even to Jerusalem."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Don’t tell it in Gath."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Don’t weep at all."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "At Beth Ophrah I have rolled myself in the dust."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Pass on, inhabitant of Shaphir, in nakedness and shame."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The inhabitant of Zaanan won’t come out."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The wailing of Beth Ezel will take from you his protection."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For the inhabitant of Maroth waits anxiously for good,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because evil has come down from the LORD to the gate of Jerusalem."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Harness the chariot to the swift steed, inhabitant of Lachish."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "She was the beginning of sin to the daughter of Zion;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the transgressions of Israel were found in you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Therefore you will give a parting gift to Moresheth Gath."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The houses of Achzib will be a deceitful thing to the kings of Israel."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will yet bring a conqueror to you, inhabitants of Mareshah."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The glory of Israel will come to Adullam."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Shave your heads,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and cut off your hair for the children of your delight."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Enlarge your baldness like the vulture,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for they have gone into captivity from you!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Woe to those who devise iniquity"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and work evil on their beds!"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "When the morning is light, they practice it,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because it is in the power of their hand."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They covet fields and seize them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and houses, then take them away."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They oppress a man and his house,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "even a man and his heritage."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Therefore the LORD says:"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Behold, I am planning against these people a disaster,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "from which you will not remove your necks,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "neither will you walk haughtily,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for it is an evil time."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "In that day they will take up a parable against you,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and lament with a doleful lamentation, saying,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "‘We are utterly ruined!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My people’s possession is divided up."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Indeed he takes it from me and assigns our fields to traitors!’”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Therefore you will have no one who divides the land by lot in the LORD’s assembly."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Don’t prophesy!”—they prophesy—"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Don’t prophesy about these things."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Disgrace won’t overtake us.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Shall it be said, O house of Jacob,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Is the LORD’s Spirit angry?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Are these his doings?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Don’t my words do good to him who walks blamelessly?”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But lately my people have risen up as an enemy."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You strip the robe and clothing from those who pass by without a care, returning from battle."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You drive the women of my people out from their pleasant houses;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "from their young children you take away my blessing forever."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Arise, and depart!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "For this is not your resting place,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because of uncleanness that destroys,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "even with a grievous destruction."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "If a man walking in a spirit of falsehood lies, saying,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“I will prophesy to you of wine and of strong drink,”"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "he would be the prophet of this people."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will surely assemble all of you, Jacob."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will surely gather the remnant of Israel."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will put them together as the sheep of Bozrah,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "as a flock in the middle of their pasture."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They will swarm with people."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He who breaks open the way goes up before them."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They break through the gate, and go out."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Their king passes on before them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "with the LORD at their head."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "I said,"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You who hate the good,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and love the evil;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who tear off their skin,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and their flesh from off their bones;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who also eat the flesh of my people,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and peel their skin from off them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and break their bones,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and chop them in pieces, as for the pot,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and as meat within the cauldron."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Then they will cry to the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "but he will not answer them."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Yes, he will hide his face from them at that time,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because they made their deeds evil.”"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "The LORD says concerning the prophets who lead my people astray—for those who feed their teeth, they proclaim, “Peace!” and whoever doesn’t provide for their mouths, they prepare war against him:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Therefore night is over you, with no vision,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and it is dark to you, that you may not divine;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the sun will go down on the prophets,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the day will be black over them."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The seers shall be disappointed,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the diviners confounded."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Yes, they shall all cover their lips,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for there is no answer from God.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But as for me, I am full of power by the LORD’s Spirit,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and of judgment, and of might,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to declare to Jacob his disobedience,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and to Israel his sin."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Please listen to this, you heads of the house of Jacob,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and rulers of the house of Israel,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who abhor justice,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and pervert all equity,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who build up Zion with blood,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and Jerusalem with iniquity."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Her leaders judge for bribes,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and her priests teach for a price,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and her prophets of it tell fortunes for money;"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "yet they lean on the LORD, and say,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Isn’t the LORD among us?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "No disaster will come on us.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Therefore Zion for your sake will be plowed like a field,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and Jerusalem will become heaps of rubble,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the mountain of the temple like the high places of a forest."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But in the latter days,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "it will happen that the mountain of the LORD’s temple will be established on the top of the mountains,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and it will be exalted above the hills;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and peoples will stream to it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Many nations will go and say,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Come! Let’s go up to the mountain of the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and to the house of the God of Jacob;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and he will teach us of his ways,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and we will walk in his paths.”"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For the law will go out of Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the LORD’s word from Jerusalem;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "and he will judge between many peoples,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will decide concerning strong nations afar off."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They will beat their swords into plowshares,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and their spears into pruning hooks."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Nation will not lift up sword against nation,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "neither will they learn war any more."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But every man will sit under his vine and under his fig tree."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "No one will make them afraid,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the mouth of the LORD of Armies has spoken."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Indeed all the nations may walk in the name of their gods,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "but we will walk in the name of the LORD our God forever and ever."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“In that day,” says the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“I will assemble that which is lame,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and I will gather that which is driven away,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and that which I have afflicted;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and I will make that which was lame a remnant,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and that which was cast far off a strong nation:"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the LORD will reign over them on Mount Zion from then on, even forever.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You, tower of the flock, the hill of the daughter of Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to you it will come."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Yes, the former dominion will come,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the kingdom of the daughter of Jerusalem."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Now why do you cry out aloud?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Is there no king in you?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Has your counselor perished,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that pains have taken hold of you as of a woman in travail?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Be in pain, and labor to give birth, daughter of Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like a woman in travail;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for now you will go out of the city,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will dwell in the field,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will come even to Babylon."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "There you will be rescued."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There the LORD will redeem you from the hand of your enemies."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Now many nations have assembled against you, that say,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Let her be defiled,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and let our eye gloat over Zion.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But they don’t know the thoughts of the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "neither do they understand his counsel;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for he has gathered them like the sheaves to the threshing floor."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Arise and thresh, daughter of Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for I will make your horn iron,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and I will make your hoofs bronze."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You will beat in pieces many peoples."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will devote their gain to the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and their substance to the Lord of the whole earth."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Now you shall gather yourself in troops,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "daughter of troops."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has laid siege against us."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They will strike the judge of Israel with a rod on the cheek."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But you, Bethlehem Ephrathah,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "being small among the clans of Judah,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "out of you one will come out to me who is to be ruler in Israel;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "whose goings out are from of old, from ancient times."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Therefore he will abandon them until the time that she who is in labor gives birth."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Then the rest of his brothers will return to the children of Israel."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He shall stand, and shall shepherd in the strength of the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "in the majesty of the name of the LORD his God."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They will live, for then he will be great to the ends of the earth."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He will be our peace when Assyria invades our land"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and when he marches through our fortresses,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "then we will raise against him seven shepherds,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and eight leaders of men."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They will rule the land of Assyria with the sword,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the land of Nimrod in its gates."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He will deliver us from the Assyrian,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "when he invades our land,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and when he marches within our border."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The remnant of Jacob will be among many peoples"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like dew from the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like showers on the grass,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that don’t wait for man"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "nor wait for the sons of men."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The remnant of Jacob will be among the nations,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "among many peoples,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like a lion among the animals of the forest,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like a young lion among the flocks of sheep;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who, if he goes through, treads down and tears in pieces,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and there is no one to deliver."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let your hand be lifted up above your adversaries,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and let all of your enemies be cut off."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“It will happen in that day”, says the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“that I will cut off your horses from among you"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will destroy your chariots."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will cut off the cities of your land"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will tear down all your strongholds."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will destroy witchcraft from your hand."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You shall have no soothsayers."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will cut off your engraved images and your pillars from among you;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and you shall no more worship the work of your hands."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will uproot your Asherah poles from among you;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and I will destroy your cities."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will execute vengeance in anger"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and wrath on the nations that didn’t listen.”"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "Listen now to what the LORD says:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Hear, you mountains, the LORD’s indictment,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and you enduring foundations of the earth;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the LORD has a case against his people,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and he will contend with Israel."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My people, what have I done to you?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "How have I burdened you?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Answer me!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For I brought you up out of the land of Egypt,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and redeemed you out of the house of bondage."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I sent before you Moses, Aaron, and Miriam."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My people, remember now what Balak king of Moab devised,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and what Balaam the son of Beor answered him from Shittim to Gilgal,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that you may know the righteous acts of the LORD.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "How shall I come before the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and bow myself before the exalted God?"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Shall I come before him with burnt offerings,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "with calves a year old?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Will the LORD be pleased with thousands of rams?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "With tens of thousands of rivers of oil?"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Shall I give my firstborn for my disobedience?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The fruit of my body for the sin of my soul?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has shown you, O man, what is good."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "What does the LORD require of you, but to act justly,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to love mercy, and to walk humbly with your God?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD’s voice calls to the city—"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and wisdom fears your name—"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Listen to the rod,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and he who appointed it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Are there yet treasures of wickedness in the house of the wicked,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and a short ephah that is accursed?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Shall I tolerate dishonest scales,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and a bag of deceitful weights?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Her rich men are full of violence,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "her inhabitants speak lies,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and their tongue is deceitful in their speech."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Therefore I also have struck you with a grievous wound."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I have made you desolate because of your sins."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You shall eat, but not be satisfied."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your hunger will be within you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You will store up, but not save,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and that which you save I will give up to the sword."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You will sow, but won’t reap."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You will tread the olives, but won’t anoint yourself with oil;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and crush grapes, but won’t drink the wine."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For the statutes of Omri are kept,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and all the works of Ahab’s house."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You walk in their counsels,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that I may make you a ruin,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and your inhabitants a hissing."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You will bear the reproach of my people.”"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Misery is mine!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Indeed, I am like one who gathers the summer fruits, as gleanings of the vineyard."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There is no cluster of grapes to eat."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My soul desires to eat the early fig."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The godly man has perished out of the earth,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and there is no one upright among men."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They all lie in wait for blood;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "every man hunts his brother with a net."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Their hands are on that which is evil to do it diligently."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The ruler and judge ask for a bribe."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The powerful man dictates the evil desire of his soul."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Thus they conspire together."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The best of them is like a brier."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The most upright is worse than a thorn hedge."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The day of your watchmen,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "even your visitation, has come;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "now is the time of their confusion."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Don’t trust in a neighbor."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Don’t put confidence in a friend."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "With the woman lying in your embrace,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "be careful of the words of your mouth!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For the son dishonors the father,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the daughter rises up against her mother,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the daughter-in-law against her mother-in-law;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a man’s enemies are the men of his own house."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But as for me, I will look to the LORD."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will wait for the God of my salvation."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My God will hear me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Don’t rejoice against me, my enemy."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "When I fall, I will arise."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "When I sit in darkness, the LORD will be a light to me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will bear the indignation of the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because I have sinned against him,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "until he pleads my case and executes judgment for me."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He will bring me out to the light."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will see his righteousness."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Then my enemy will see it,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and shame will cover her who said to me,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Where is the LORD your God?”"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My eyes will see her."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Now she will be trodden down like the mire of the streets."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "A day to build your walls!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "In that day, he will extend your boundary."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "In that day they will come to you from Assyria and the cities of Egypt,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and from Egypt even to the River,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and from sea to sea,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and mountain to mountain."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Yet the land will be desolate because of those who dwell therein,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the fruit of their doings."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Shepherd your people with your staff,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the flock of your heritage,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who dwell by themselves in a forest."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let them feed in the middle of fertile pasture land,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "in Bashan and Gilead, as in the days of old."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“As in the days of your coming out of the land of Egypt,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will show them marvelous things.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The nations will see and be ashamed of all their might."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They will lay their hand on their mouth."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Their ears will be deaf."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They will lick the dust like a serpent."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Like crawling things of the earth, they will come trembling out of their dens."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They will come with fear to the LORD our God,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will be afraid because of you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 18,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Who is a God like you, who pardons iniquity,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and passes over the disobedience of the remnant of his heritage?"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He doesn’t retain his anger forever,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because he delights in loving kindness."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 19,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He will again have compassion on us."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He will tread our iniquities under foot."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You will cast all their sins into the depths of the sea."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 20,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You will give truth to Jacob,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and mercy to Abraham,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "as you have sworn to our fathers from the days of old."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

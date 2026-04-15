@@ -22,7 +22,7 @@ import { useHistory } from '../hooks/useHistory';
 import type { BookmarkedVerseSelection } from '../lib/bookmark-selection';
 
 export function BibleReader() {
-  const { theme, fontSize, setTheme, setFontSize } = useSettings();
+  const { theme, fontSize, translation, setTheme, setFontSize, setTranslation } = useSettings();
   const auth = useAuth();
   const { bookmarks, isBookmarked, add: addBookmark, remove: removeBookmark } = useBookmarks(auth.user?.id);
   const { entries: historyEntries, loading: historyLoading, load: loadHistory, remove: removeHistory } = useHistory(auth.user?.id);
@@ -55,11 +55,11 @@ export function BibleReader() {
 
   useEffect(() => {
     setLoading(true);
-    loadBook(bookAbbrev).then(b => {
+    loadBook(bookAbbrev, translation).then(b => {
       setBook(b);
       setLoading(false);
     });
-  }, [bookAbbrev]);
+  }, [bookAbbrev, translation]);
 
   const navigate = useCallback((abbrev: string, chapter: number) => {
     setBookAbbrev(abbrev);
@@ -308,6 +308,7 @@ export function BibleReader() {
       {/* Search modal */}
       <SearchModal
         isOpen={searchOpen}
+        translation={translation}
         onClose={() => setSearchOpen(false)}
         onNavigate={handleSearchNavigate}
       />
@@ -317,8 +318,10 @@ export function BibleReader() {
         isOpen={settingsOpen}
         theme={theme}
         fontSize={fontSize}
+        translation={translation}
         onTheme={setTheme}
         onFontSize={setFontSize}
+        onTranslation={setTranslation}
         onClose={() => setSettingsOpen(false)}
       />
 

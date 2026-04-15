@@ -13,13 +13,14 @@ export interface SearchResult extends SearchEntry {
   matchEnd: number;
 }
 
-let indexCache: SearchEntry[] | null = null;
+const indexCacheMap = new Map<string, SearchEntry[]>();
 
-async function loadIndex(): Promise<SearchEntry[]> {
-  if (indexCache) return indexCache;
-  const res = await fetch('/search-index.json');
-  indexCache = await res.json() as SearchEntry[];
-  return indexCache;
+async function loadIndex(translation: string): Promise<SearchEntry[]> {
+  if (indexCacheMap.has(translation)) return indexCacheMap.get(translation)!;
+  const res = await fetch(`/search-index-${translation}.json`);
+  const data = await res.json() as SearchEntry[];
+  indexCacheMap.set(translation, data);
+  return data;
 }
 
 function search(index: SearchEntry[], query: string, limit = 50): SearchResult[] {
@@ -37,7 +38,7 @@ function search(index: SearchEntry[], query: string, limit = 50): SearchResult[]
   return results;
 }
 
-export function useSearch() {
+export function useSearch(translation: string) {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<SearchResult[]>([]);
   const [loading, setLoading] = useState(false);
@@ -45,13 +46,15 @@ export function useSearch() {
   const indexRef = useRef<SearchEntry[] | null>(null);
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  // Load index when hook mounts
   useEffect(() => {
-    loadIndex().then(idx => {
+    setIndexReady(false);
+    indexRef.current = null;
+    setResults([]);
+    loadIndex(translation).then(idx => {
       indexRef.current = idx;
       setIndexReady(true);
     });
-  }, []);
+  }, [translation]);
 
   const handleQuery = useCallback((q: string) => {
     setQuery(q);

@@ -1,0 +1,4604 @@
+{
+  "name": "Lamentations",
+  "abbrev": "LAM",
+  "chapters": [
+    {
+      "number": 1,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "How the city sits solitary,"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "She weeps bitterly in the night."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Her tears are on her cheeks."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Among all her lovers"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "she has no one to comfort her."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "All her friends have dealt treacherously with her."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They have become her enemies."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Judah has gone into captivity because of affliction"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and because of great servitude."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "She dwells among the nations."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "She finds no rest."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "All her persecutors overtook her in her distress."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The roads to Zion mourn,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because no one comes to the solemn assembly."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "All her gates are desolate."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Her priests sigh."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Her virgins are afflicted,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and she herself is in bitterness."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Her adversaries have become the head."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Her enemies prosper;"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "for the LORD has afflicted her for the multitude of her transgressions."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Her young children have gone into captivity before the adversary."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "All majesty has departed from the daughter of Zion."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Her princes have become like deer that find no pasture."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They have gone without strength before the pursuer."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Jerusalem remembers in the days of her affliction and of her miseries"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "all her pleasant things that were from the days of old;"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "when her people fell into the hand of the adversary,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and no one helped her."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The adversaries saw her."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They mocked at her desolations."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Jerusalem has grievously sinned."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Therefore she has become unclean."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "All who honored her despise her,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because they have seen her nakedness."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Yes, she sighs and turns backward."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Her filthiness was in her skirts."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "She didn’t remember her latter end."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Therefore she has come down astoundingly."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "She has no comforter."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“See, LORD, my affliction;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the enemy has magnified himself.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The adversary has spread out his hand on all her pleasant things;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for she has seen that the nations have entered into her sanctuary,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "concerning whom you commanded that they should not enter into your assembly."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "All her people sigh."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They seek bread."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They have given their pleasant things for food to refresh their soul."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Look, LORD, and see,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for I have become despised.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Is it nothing to you, all you who pass by?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Look, and see if there is any sorrow like my sorrow,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "which is brought on me,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "with which the LORD has afflicted me in the day of his fierce anger."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“From on high has he sent fire into my bones,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and it prevails against them."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has spread a net for my feet."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has turned me back."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has made me desolate and I faint all day long."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“The yoke of my transgressions is bound by his hand."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They are knit together."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They have come up on my neck."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He made my strength fail."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The Lord has delivered me into their hands,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "against whom I am not able to stand."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“The Lord has set at nothing all my mighty men within me."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has called a solemn assembly against me to crush my young men."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The Lord has trodden the virgin daughter of Judah as in a wine press."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“For these things I weep."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My eye, my eye runs down with water,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because the comforter who should refresh my soul is far from me."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My children are desolate,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because the enemy has prevailed.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Zion spreads out her hands."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There is no one to comfort her."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD has commanded concerning Jacob,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that those who are around him should be his adversaries."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Jerusalem is among them as an unclean thing."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 18,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“The LORD is righteous,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for I have rebelled against his commandment."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Please hear all you peoples,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and see my sorrow."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My virgins and my young men have gone into captivity."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 19,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“I called for my lovers,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "but they deceived me."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My priests and my elders gave up the spirit in the city,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "while they sought food for themselves to refresh their souls."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 20,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Look, LORD; for I am in distress."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My heart is troubled."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My heart turns over within me,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for I have grievously rebelled."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Abroad, the sword bereaves."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "At home, it is like death."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 21,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“They have heard that I sigh."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There is no one to comfort me."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "All my enemies have heard of my trouble."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They are glad that you have done it."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You will bring the day that you have proclaimed,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and they will be like me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 22,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Let all their wickedness come before you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Do to them as you have done to me for all my transgressions."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For my sighs are many,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and my heart is faint."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "How has the Lord covered the daughter of Zion with a cloud in his anger!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The Lord has swallowed up all the dwellings of Jacob"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "without pity."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has thrown down in his wrath the strongholds of the daughter of Judah."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has brought them down to the ground."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has profaned the kingdom and its princes."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has cut off all the horn of Israel in fierce anger."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has drawn back his right hand from before the enemy."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has burned up Jacob like a flaming fire,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "which devours all around."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has bent his bow like an enemy."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has stood with his right hand as an adversary."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has killed all that were pleasant to the eye."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "In the tent of the daughter of Zion, he has poured out his wrath like fire."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The Lord has become as an enemy."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has swallowed up Israel."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has swallowed up all her palaces."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has destroyed his strongholds."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has multiplied mourning and lamentation in the daughter of Judah."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has violently taken away his tabernacle,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "as if it were a garden."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has destroyed his place of assembly."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The LORD has caused solemn assembly and Sabbath to be forgotten in Zion."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "In the indignation of his anger, he has despised the king and the priest."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The Lord has cast off his altar."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has abhorred his sanctuary."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has given the walls of her palaces into the hand of the enemy."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They have made a noise in the LORD’s house,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "as in the day of a solemn assembly."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD has purposed to destroy the wall of the daughter of Zion."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has stretched out the line."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has not withdrawn his hand from destroying;"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has made the rampart and wall lament."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They languish together."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Her gates have sunk into the ground."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has destroyed and broken her bars."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Her king and her princes are among the nations where the law is not."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Yes, her prophets find no vision from the LORD."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The elders of the daughter of Zion sit on the ground."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They keep silence."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They have cast up dust on their heads."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They have clothed themselves with sackcloth."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The virgins of Jerusalem hang down their heads to the ground."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My eyes fail with tears."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My heart is troubled."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My bile is poured on the earth,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because of the destruction of the daughter of my people,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because the young children and the infants swoon in the streets of the city."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They ask their mothers,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Where is grain and wine?”"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "when they swoon as the wounded in the streets of the city,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "when their soul is poured out into their mothers’ bosom."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "What shall I testify to you?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "What shall I liken to you, daughter of Jerusalem?"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "What shall I compare to you,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that I may comfort you, virgin daughter of Zion?"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For your breach is as big as the sea."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Who can heal you?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your prophets have seen false and foolish visions for you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They have not uncovered your iniquity,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to reverse your captivity,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "but have seen for you false revelations and causes of banishment."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "All that pass by clap their hands at you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They hiss and wag their head at the daughter of Jerusalem, saying,"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Is this the city that men called ‘The perfection of beauty,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the joy of the whole earth’?”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "All your enemies have opened their mouth wide against you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They hiss and gnash their teeth."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They say, “We have swallowed her up."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Certainly this is the day that we looked for."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "We have found it."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "We have seen it.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD has done that which he planned."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has fulfilled his word that he commanded in the days of old."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has thrown down,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and has not pitied."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has caused the enemy to rejoice over you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has exalted the horn of your adversaries."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 18,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Their heart cried to the Lord."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "O wall of the daughter of Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "let tears run down like a river day and night."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Give yourself no relief."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Don’t let your eyes rest."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 19,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Arise, cry out in the night,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "at the beginning of the watches!"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Pour out your heart like water before the face of the Lord."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Lift up your hands toward him for the life of your young children,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who faint for hunger at the head of every street."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 20,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Look, LORD, and see to whom you have done thus!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Should the women eat their offspring,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the children that they held and bounced on their knees?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Should the priest and the prophet be killed in the sanctuary of the Lord?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 21,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“The youth and the old man lie on the ground in the streets."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My virgins and my young men have fallen by the sword."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You have killed them in the day of your anger."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You have slaughtered, and not pitied."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 22,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“You have called, as in the day of a solemn assembly, my terrors on every side."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There was no one that escaped or remained in the day of the LORD’s anger."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My enemy has consumed those whom I have cared for and brought up."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I am the man who has seen affliction"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "by the rod of his wrath."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has led me and caused me to walk in darkness,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and not in light."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Surely he turns his hand against me"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "again and again all day long."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has made my flesh and my skin old."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has broken my bones."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has built against me,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and surrounded me with bitterness and hardship."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has made me dwell in dark places,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "as those who have been long dead."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has walled me about, so that I can’t go out."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has made my chain heavy."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Yes, when I cry, and call for help,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "he shuts out my prayer."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has walled up my ways with cut stone."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has made my paths crooked."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He is to me as a bear lying in wait,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "as a lion in hiding."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has turned away my path,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and pulled me in pieces."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has made me desolate."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has bent his bow,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and set me as a mark for the arrow."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has caused the shafts of his quiver to enter into my kidneys."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I have become a derision to all my people,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and their song all day long."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has filled me with bitterness."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has stuffed me with wormwood."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has also broken my teeth with gravel."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has covered me with ashes."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You have removed my soul far away from peace."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I forgot prosperity."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 18,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I said, “My strength has perished,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "along with my expectation from the LORD.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 19,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Remember my affliction and my misery,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the wormwood and the bitterness."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 20,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My soul still remembers them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and is bowed down within me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 21,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "This I recall to my mind;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "therefore I have hope."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 22,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "It is because of the LORD’s loving kindnesses that we are not consumed,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because his mercies don’t fail."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 23,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They are new every morning."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Great is your faithfulness."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 24,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“The LORD is my portion,” says my soul."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Therefore I will hope in him.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 25,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD is good to those who wait for him,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to the soul who seeks him."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 26,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "It is good that a man should hope"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and quietly wait for the salvation of the LORD."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 27,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "It is good for a man that he bear the yoke in his youth."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 28,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let him sit alone and keep silence,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because he has laid it on him."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 29,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let him put his mouth in the dust,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "if it is so that there may be hope."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 30,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let him give his cheek to him who strikes him."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Let him be filled full of reproach."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 31,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For the Lord will not cast off forever."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 32,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "For though he causes grief,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "yet he will have compassion according to the multitude of his loving kindnesses."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 33,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For he does not afflict willingly,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "nor grieve the children of men."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 34,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "To crush under foot all the prisoners of the earth,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 35,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to turn away the right of a man before the face of the Most High,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 36,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to subvert a man in his cause, the Lord doesn’t approve."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 37,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Who is he who says, and it comes to pass,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "when the Lord doesn’t command it?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 38,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Doesn’t evil and good come out of the mouth of the Most High?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 39,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Why should a living man complain,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a man for the punishment of his sins?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 40,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let us search and try our ways,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and turn again to the LORD."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 41,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let’s lift up our heart with our hands to God in the heavens."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 42,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“We have transgressed and have rebelled."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You have not pardoned."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 43,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“You have covered us with anger and pursued us."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You have killed."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You have not pitied."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 44,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You have covered yourself with a cloud,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "so that no prayer can pass through."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 45,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You have made us an off-scouring and refuse"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "in the middle of the peoples."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 46,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“All our enemies have opened their mouth wide against us."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 47,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Terror and the pit have come on us,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "devastation and destruction.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 48,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My eye runs down with streams of water,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the destruction of the daughter of my people."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 49,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My eye pours down"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and doesn’t cease,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "without any intermission,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 50,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "until the LORD looks down,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and sees from heaven."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 51,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My eye affects my soul,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because of all the daughters of my city."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 52,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They have chased me relentlessly like a bird,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "those who are my enemies without cause."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 53,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They have cut off my life in the dungeon,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and have cast a stone on me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 54,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Waters flowed over my head."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I said, “I am cut off.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 55,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I called on your name, LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "out of the lowest dungeon."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 56,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You heard my voice:"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Don’t hide your ear from my sighing,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and my cry.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 57,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You came near in the day that I called on you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You said, “Don’t be afraid.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 58,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Lord, you have pleaded the causes of my soul."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You have redeemed my life."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 59,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "LORD, you have seen my wrong."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Judge my cause."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 60,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You have seen all their vengeance"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and all their plans against me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 61,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You have heard their reproach, LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and all their plans against me,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 62,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "the lips of those that rose up against me,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and their plots against me all day long."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 63,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You see their sitting down and their rising up."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I am their song."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 64,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You will pay them back, LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "according to the work of their hands."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 65,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You will give them hardness of heart,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "your curse to them."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 66,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You will pursue them in anger,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and destroy them from under the heavens of the LORD."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "How the gold has become dim!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The most pure gold has changed!"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The stones of the sanctuary are poured out"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "at the head of every street."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The precious sons of Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "comparable to fine gold,"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "how they are esteemed as earthen pitchers,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the work of the hands of the potter!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Even the jackals offer their breast."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They nurse their young ones."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But the daughter of my people has become cruel,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like the ostriches in the wilderness."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The tongue of the nursing child clings to the roof of his mouth for thirst."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The young children ask for bread,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and no one breaks it for them."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Those who ate delicacies are desolate in the streets."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Those who were brought up in purple embrace dunghills."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For the iniquity of the daughter of my people is greater than the sin of Sodom,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "which was overthrown as in a moment."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "No hands were laid on her."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Her nobles were purer than snow."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They were whiter than milk."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They were more ruddy in body than rubies."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Their polishing was like sapphire."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Their appearance is blacker than a coal."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They are not known in the streets."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Their skin clings to their bones."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "It is withered."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "It has become like wood."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Those who are killed with the sword are better than those who are killed with hunger;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for these pine away, stricken through,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for lack of the fruits of the field."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The hands of the pitiful women have boiled their own children."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They were their food in the destruction of the daughter of my people."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD has accomplished his wrath."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has poured out his fierce anger."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has kindled a fire in Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "which has devoured its foundations."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The kings of the earth didn’t believe,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "neither did all the inhabitants of the world,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that the adversary and the enemy would enter into the gates of Jerusalem."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "It is because of the sins of her prophets"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the iniquities of her priests,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that have shed the blood of the just in the middle of her."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They wander as blind men in the streets."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They are polluted with blood,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "So that men can’t touch their garments."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Go away!” they cried to them."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Unclean! Go away! Go away! Don’t touch!"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "When they fled away and wandered, men said among the nations,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“They can’t live here any more.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD’s anger has scattered them."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He will not pay attention to them any more."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They didn’t respect the persons of the priests."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They didn’t favor the elders."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Our eyes still fail,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "looking in vain for our help."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "In our watching we have watched for a nation that could not save."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 18,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They hunt our steps,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "so that we can’t go in our streets."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Our end is near."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Our days are fulfilled,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for our end has come."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 19,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Our pursuers were swifter than the eagles of the sky."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They chased us on the mountains."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They set an ambush for us in the wilderness."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 20,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The breath of our nostrils,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the anointed of the LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "was taken in their pits;"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "of whom we said,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "under his shadow we will live among the nations."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 21,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Rejoice and be glad, daughter of Edom,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who dwells in the land of Uz."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The cup will pass through to you also."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You will be drunken,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will make yourself naked."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 22,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The punishment of your iniquity is accomplished, daughter of Zion."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He will no more carry you away into captivity."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He will visit your iniquity, daughter of Edom."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He will uncover your sins."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Remember, LORD, what has come on us."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Look, and see our reproach."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Our inheritance has been turned over to strangers,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "our houses to aliens."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "We are orphans and fatherless."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Our mothers are as widows."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "We must pay for water to drink."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Our wood is sold to us."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Our pursuers are on our necks."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "We are weary, and have no rest."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "We have given our hands to the Egyptians,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and to the Assyrians, to be satisfied with bread."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Our fathers sinned, and are no more."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "We have borne their iniquities."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Servants rule over us."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There is no one to deliver us out of their hand."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "We get our bread at the peril of our lives,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because of the sword in the wilderness."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Our skin is black like an oven,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because of the burning heat of famine."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They ravished the women in Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the virgins in the cities of Judah."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Princes were hanged up by their hands."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The faces of elders were not honored."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The young men carry millstones."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The children stumbled under loads of wood."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The elders have ceased from the gate,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the young men from their music."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The joy of our heart has ceased."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Our dance is turned into mourning."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The crown has fallen from our head."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Woe to us, for we have sinned!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For this our heart is faint."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "For these things our eyes are dim:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 18,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "for the mountain of Zion, which is desolate."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The foxes walk on it."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 19,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You, LORD, remain forever."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your throne is from generation to generation."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 20,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Why do you forget us forever,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and forsake us for so long a time?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 21,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Turn us to yourself, LORD, and we will be turned."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Renew our days as of old."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 22,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But you have utterly rejected us."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You are very angry against us."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

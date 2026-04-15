@@ -1,0 +1,2506 @@
+{
+  "name": "Joel",
+  "abbrev": "JOL",
+  "chapters": [
+    {
+      "number": 1,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "The LORD’s word that came to Joel, the son of Pethuel."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Hear this, you elders,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and listen, all you inhabitants of the land!"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Has this ever happened in your days,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "or in the days of your fathers?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Tell your children about it,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and have your children tell their children,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and their children, another generation."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "What the swarming locust has left, the great locust has eaten."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "What the great locust has left, the grasshopper has eaten."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "What the grasshopper has left, the caterpillar has eaten."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Wake up, you drunkards, and weep!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Wail, all you drinkers of wine, because of the sweet wine,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for it is cut off from your mouth."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For a nation has come up on my land, strong, and without number."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "His teeth are the teeth of a lion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and he has the fangs of a lioness."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He has laid my vine waste,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and stripped my fig tree."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He has stripped its bark, and thrown it away."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Its branches are made white."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Mourn like a virgin dressed in sackcloth"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the husband of her youth!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The meal offering and the drink offering are cut off from the LORD’s house."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The priests, the LORD’s ministers, mourn."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The field is laid waste."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The land mourns, for the grain is destroyed,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The new wine has dried up,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the oil languishes."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Be confounded, you farmers!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Wail, you vineyard keepers,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the wheat and for the barley;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the harvest of the field has perished."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The vine has dried up, and the fig tree withered—"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the pomegranate tree, the palm tree also, and the apple tree,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "even all of the trees of the field are withered;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for joy has withered away from the sons of men."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Put on sackcloth and mourn, you priests!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Wail, you ministers of the altar."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Come, lie all night in sackcloth, you ministers of my God,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the meal offering and the drink offering are withheld from your God’s house."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Sanctify a fast."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Call a solemn assembly."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Gather the elders and all the inhabitants of the land to the house of the LORD, your God,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and cry to the LORD."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Alas for the day!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "For the day of the LORD is at hand,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and it will come as destruction from the Almighty."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Isn’t the food cut off before our eyes,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "joy and gladness from the house of our God?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The seeds rot under their clods."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The granaries are laid desolate."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The barns are broken down, for the grain has withered."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 18,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "How the animals groan!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The herds of livestock are perplexed, because they have no pasture."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Yes, the flocks of sheep are made desolate."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 19,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "LORD, I cry to you,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the fire has devoured the pastures of the wilderness,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the flame has burned all the trees of the field."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 20,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Yes, the animals of the field pant to you,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the water brooks have dried up,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the fire has devoured the pastures of the wilderness."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Blow the trumpet in Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and sound an alarm in my holy mountain!"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let all the inhabitants of the land tremble,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the day of the LORD comes,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for it is close at hand:"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "A day of darkness and gloominess,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a day of clouds and thick darkness."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "As the dawn spreading on the mountains,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a great and strong people;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "there has never been the like,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "neither will there be any more after them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "even to the years of many generations."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "A fire devours before them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and behind them, a flame burns."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The land is as the garden of Eden before them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and behind them, a desolate wilderness."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Yes, and no one has escaped them."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Their appearance is as the appearance of horses,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and they run as horsemen."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Like the noise of chariots on the tops of the mountains, they leap,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like the noise of a flame of fire that devours the stubble,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like a strong people set in battle array."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "At their presence the peoples are in anguish."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "All faces have grown pale."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They run like mighty men."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They climb the wall like warriors."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They each march in his line, and they don’t swerve off course."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "One doesn’t jostle another."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They each march in their own path."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They burst through the defenses"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and don’t break ranks."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They rush on the city."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They run on the wall."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They climb up into the houses."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They enter in at the windows like thieves."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The earth quakes before them."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The heavens tremble."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The sun and the moon are darkened,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the stars withdraw their shining."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD thunders his voice before his army,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for his forces are very great;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for he is strong who obeys his command;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the day of the LORD is great and very awesome,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and who can endure it?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Yet even now,” says the LORD, “turn to me with all your heart,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and with fasting, and with weeping, and with mourning.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Tear your heart and not your garments,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and turn to the LORD, your God;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for he is gracious and merciful,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "slow to anger, and abundant in loving kindness,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and relents from sending calamity."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Who knows? He may turn and relent,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and leave a blessing behind him,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "even a meal offering and a drink offering to the LORD, your God."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Blow the trumpet in Zion!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Sanctify a fast."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Call a solemn assembly."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Gather the people."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Sanctify the assembly."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Assemble the elders."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Gather the children, and those who nurse from breasts."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let the bridegroom go out of his room,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the bride out of her chamber."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let the priests, the ministers of the LORD, weep between the porch and the altar,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and let them say, “Spare your people, LORD,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and don’t give your heritage to reproach,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that the nations should rule over them."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Why should they say among the peoples,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "‘Where is their God?’”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 18,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Then the LORD was jealous for his land,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and had pity on his people."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 19,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD answered his people,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Behold, I will send you grain, new wine, and oil,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and you will be satisfied with them;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and I will no more make you a reproach among the nations."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 20,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But I will remove the northern army far away from you,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will drive it into a barren and desolate land,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "its front into the eastern sea,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and its back into the western sea;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and its stench will come up,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and its bad smell will rise.”"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Surely he has done great things."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 21,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Land, don’t be afraid."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Be glad and rejoice, for the LORD has done great things."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 22,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Don’t be afraid, you animals of the field;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the pastures of the wilderness spring up,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the tree bears its fruit."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The fig tree and the vine yield their strength."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 23,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Be glad then, you children of Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and rejoice in the LORD, your God;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for he gives you the early rain in just measure,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and he causes the rain to come down for you,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the early rain and the latter rain, as before."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 24,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The threshing floors will be full of wheat,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the vats will overflow with new wine and oil."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 25,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will restore to you the years that the swarming locust has eaten,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the great locust, the grasshopper, and the caterpillar,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "my great army, which I sent among you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 26,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You will have plenty to eat and be satisfied,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will praise the name of the LORD, your God,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who has dealt wondrously with you;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and my people will never again be disappointed."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 27,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You will know that I am among Israel,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and that I am the LORD, your God, and there is no one else;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and my people will never again be disappointed."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 28,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“It will happen afterward, that I will pour out my Spirit on all flesh;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and your sons and your daughters will prophesy."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your old men will dream dreams."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your young men will see visions."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 29,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "And also on the servants and on the handmaids in those days,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will pour out my Spirit."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 30,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will show wonders in the heavens and in the earth:"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "blood, fire, and pillars of smoke."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 31,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The sun will be turned into darkness,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the moon into blood,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "before the great and terrible day of the LORD comes."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 32,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "It will happen that whoever will call on the LORD’s name shall be saved;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for in Mount Zion and in Jerusalem there will be those who escape,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "as the LORD has said,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and among the remnant, those whom the LORD calls."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“For, behold, in those days,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and in that time,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "when I restore the fortunes of Judah and Jerusalem,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will gather all nations,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will bring them down into the valley of Jehoshaphat;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and I will execute judgment on them there for my people,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and for my heritage, Israel, whom they have scattered among the nations."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They have divided my land,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and have cast lots for my people,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and have given a boy for a prostitute,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and sold a girl for wine, that they may drink."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Yes, and what are you to me, Tyre and Sidon,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and all the regions of Philistia?"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Will you repay me?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "And if you repay me,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will swiftly and speedily return your repayment on your own head."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Because you have taken my silver and my gold,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and have carried my finest treasures into your temples,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and have sold the children of Judah and the children of Jerusalem to the sons of the Greeks,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that you may remove them far from their border."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Behold, I will stir them up out of the place where you have sold them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will return your repayment on your own head;"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "and I will sell your sons and your daughters into the hands of the children of Judah,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and they will sell them to the men of Sheba,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to a faraway nation,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the LORD has spoken it.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Proclaim this among the nations:"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Prepare for war!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Stir up the mighty men."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let all the warriors draw near."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Let them come up."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Beat your plowshares into swords,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and your pruning hooks into spears."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Let the weak say, ‘I am strong.’"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Hurry and come, all you surrounding nations,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and gather yourselves together.”"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Cause your mighty ones to come down there, LORD."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“Let the nations arouse themselves,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and come up to the valley of Jehoshaphat;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for there I will sit to judge all the surrounding nations."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Put in the sickle;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the harvest is ripe."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Come, tread, for the wine press is full,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the vats overflow, for their wickedness is great.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Multitudes, multitudes in the valley of decision!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "For the day of the LORD is near in the valley of decision."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The sun and the moon are darkened,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the stars withdraw their shining."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The LORD will roar from Zion,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and thunder from Jerusalem;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the heavens and the earth will shake;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "but the LORD will be a refuge to his people,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and a stronghold to the children of Israel."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "“So you will know that I am the LORD, your God,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "dwelling in Zion, my holy mountain."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Then Jerusalem will be holy,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and no strangers will pass through her any more."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 18,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "It will happen in that day,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that the mountains will drop down sweet wine,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the hills will flow with milk,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "all the brooks of Judah will flow with waters;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and a fountain will flow out from the LORD’s house,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and will water the valley of Shittim."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 19,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Egypt will be a desolation"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and Edom will be a desolate wilderness,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the violence done to the children of Judah,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because they have shed innocent blood in their land."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 20,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "But Judah will be inhabited forever,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and Jerusalem from generation to generation."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 21,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will cleanse their blood"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that I have not cleansed,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for the LORD dwells in Zion.”"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

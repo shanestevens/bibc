@@ -1,0 +1,276 @@
+{
+  "name": "Philemon",
+  "abbrev": "PHM",
+  "chapters": [
+    {
+      "number": 1,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our beloved fellow worker,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "to the beloved Apphia, to Archippus our fellow soldier, and to the assembly in your house:"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "I thank my God always, making mention of you in my prayers,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "hearing of your love and of the faith which you have toward the Lord Jesus and toward all the saints,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "that the fellowship of your faith may become effective in the knowledge of every good thing which is in us in Christ Jesus."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "For we have much joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "Therefore though I have all boldness in Christ to command you that which is appropriate,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "yet for love’s sake I rather appeal to you, being such a one as Paul, the aged, but also a prisoner of Jesus Christ."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "I appeal to you for my child Onesimus, whom I have become the father of in my chains,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "who once was useless to you, but now is useful to you and to me."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "I am sending him back. Therefore receive him, that is, my own heart,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "whom I desired to keep with me, that on your behalf he might serve me in my chains for the Good News."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "But I was willing to do nothing without your consent, that your goodness would not be as of necessity, but of free will."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "For perhaps he was therefore separated from you for a while that you would have him forever,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "no longer as a slave, but more than a slave, a beloved brother—especially to me, but how much rather to you, both in the flesh and in the Lord."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 17,
+              "segments": [
+                {
+                  "text": "If then you count me a partner, receive him as you would receive me."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 18,
+              "segments": [
+                {
+                  "text": "But if he has wronged you at all or owes you anything, put that to my account."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 19,
+              "segments": [
+                {
+                  "text": "I, Paul, write this with my own hand: I will repay it (not to mention to you that you owe to me even your own self besides)."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 20,
+              "segments": [
+                {
+                  "text": "Yes, brother, let me have joy from you in the Lord. Refresh my heart in the Lord."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 21,
+              "segments": [
+                {
+                  "text": "Having confidence in your obedience, I write to you, knowing that you will do even beyond what I say."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 22,
+              "segments": [
+                {
+                  "text": "Also, prepare a guest room for me, for I hope that through your prayers I will be restored to you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 23,
+              "segments": [
+                {
+                  "text": "Epaphras, my fellow prisoner in Christ Jesus, greets you,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 24,
+              "segments": [
+                {
+                  "text": "as do Mark, Aristarchus, Demas, and Luke, my fellow workers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 25,
+              "segments": [
+                {
+                  "text": "The grace of our Lord Jesus Christ be with your spirit. Amen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

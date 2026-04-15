@@ -1,15 +1,18 @@
-import type { Theme, FontSize } from '../hooks/useSettings';
+import type { Theme, FontSize, TranslationId } from '../hooks/useSettings';
+import { TRANSLATIONS } from '../lib/translations';
 
 interface Props {
   isOpen: boolean;
   theme: Theme;
   fontSize: FontSize;
+  translation: TranslationId;
   onTheme: (t: Theme) => void;
   onFontSize: (f: FontSize) => void;
+  onTranslation: (t: TranslationId) => void;
   onClose: () => void;
 }
 
-export function SettingsPanel({ isOpen, theme, fontSize, onTheme, onFontSize, onClose }: Props) {
+export function SettingsPanel({ isOpen, theme, fontSize, translation, onTheme, onFontSize, onTranslation, onClose }: Props) {
   if (!isOpen) return null;
 
   return (
@@ -55,6 +58,22 @@ export function SettingsPanel({ isOpen, theme, fontSize, onTheme, onFontSize, on
             >
               A
             </button>
+          </div>
+        </div>
+
+        <div className="settings-row">
+          <span className="settings-label">Translation</span>
+          <div className="settings-toggle-group">
+            {TRANSLATIONS.map(t => (
+              <button
+                key={t.id}
+                className={`settings-toggle ${translation === t.id ? 'settings-toggle--active' : ''}`}
+                onClick={() => onTranslation(t.id)}
+                title={`${t.fullName} (${t.year})`}
+              >
+                {t.name}
+              </button>
+            ))}
           </div>
         </div>
       </div>

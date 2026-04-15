@@ -1,0 +1,937 @@
+{
+  "name": "2 Timothy",
+  "abbrev": "2TI",
+  "chapters": [
+    {
+      "number": 1,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "I thank God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "longing to see you, remembering your tears, that I may be filled with joy;"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "having been reminded of the sincere faith that is in you, which lived first in your grandmother Lois and your mother Eunice and, I am persuaded, in you also."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "For this cause, I remind you that you should stir up the gift of God which is in you through the laying on of my hands."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "For God didn’t give us a spirit of fear, but of power, love, and self-control."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "Therefore don’t be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "For this I was appointed as a preacher, an apostle, and a teacher of the Gentiles."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "For this cause I also suffer these things."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "Hold the pattern of sound words which you have heard from me, in faith and love which is in Christ Jesus."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "That good thing which was committed to you, guard through the Holy Spirit who dwells in us."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "This you know, that all who are in Asia turned away from me, of whom are Phygelus and Hermogenes."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 17,
+              "segments": [
+                {
+                  "text": "but when he was in Rome, he sought me diligently and found me"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 18,
+              "segments": [
+                {
+                  "text": "(the Lord grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "You therefore, my child, be strengthened in the grace that is in Christ Jesus."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "You therefore must endure hardship as a good soldier of Christ Jesus."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "No soldier on duty entangles himself in the affairs of life, that he may please him who enrolled him as a soldier."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "Also, if anyone competes in athletics, he isn’t crowned unless he has competed by the rules."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "The farmer who labors must be the first to get a share of the crops."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "Consider what I say, and may the Lord give you understanding in all things."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "Remember Jesus Christ, risen from the dead, of the offspring of David, according to my Good News,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "in which I suffer hardship to the point of chains as a criminal. But God’s word isn’t chained."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "Therefore I endure all things for the chosen ones’ sake, that they also may obtain the salvation which is in Christ Jesus with eternal glory."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "This saying is trustworthy:"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "If we endure,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "we will also reign with him."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "If we deny him,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "he also will deny us."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "If we are faithless,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "he remains faithful;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for he can’t deny himself.”"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "Remind them of these things, charging them in the sight of the Lord that they don’t argue about words to no profit, to the subverting of those who hear."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "Give diligence to present yourself approved by God, a workman who doesn’t need to be ashamed, properly handling the Word of Truth."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "But shun empty chatter, for it will go further in ungodliness,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 17,
+              "segments": [
+                {
+                  "text": "and those words will consume like gangrene, of whom is Hymenaeus and Philetus:"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 18,
+              "segments": [
+                {
+                  "text": "men who have erred concerning the truth, saying that the resurrection is already past, and overthrowing the faith of some."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 19,
+              "segments": [
+                {
+                  "text": "However, God’s firm foundation stands, having this seal: “The Lord knows those who are his,” and, “Let every one who names the name of the Lord depart from unrighteousness.”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 20,
+              "segments": [
+                {
+                  "text": "Now in a large house there are not only vessels of gold and of silver, but also of wood and of clay. Some are for honor and some for dishonor."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 21,
+              "segments": [
+                {
+                  "text": "If anyone therefore purges himself from these, he will be a vessel for honor, sanctified, and suitable for the master’s use, prepared for every good work."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 22,
+              "segments": [
+                {
+                  "text": "Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 23,
+              "segments": [
+                {
+                  "text": "But refuse foolish and ignorant questionings, knowing that they generate strife."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 24,
+              "segments": [
+                {
+                  "text": "The Lord’s servant must not quarrel, but be gentle toward all, able to teach, patient,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 25,
+              "segments": [
+                {
+                  "text": "in gentleness correcting those who oppose him. Perhaps God may give them repentance leading to a full knowledge of the truth,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 26,
+              "segments": [
+                {
+                  "text": "and they may recover themselves out of the devil’s snare, having been taken captive by him to do his will."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "But know this: that in the last days, grievous times will come."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "For men will be lovers of self, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, unthankful, unholy,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "without natural affection, unforgiving, slanderers, without self-control, fierce, not lovers of good,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "traitors, headstrong, conceited, lovers of pleasure rather than lovers of God,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "holding a form of godliness but having denied its power. Turn away from these, also."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "For some of these are people who creep into houses and take captive gullible women loaded down with sins, led away by various lusts,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "always learning and never able to come to the knowledge of the truth."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "Even as Jannes and Jambres opposed Moses, so these also oppose the truth, men corrupted in mind, who concerning the faith are rejected."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "But they will proceed no further. For their folly will be evident to all men, as theirs also came to be."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "But you followed my teaching, conduct, purpose, faith, patience, love, steadfastness,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "persecutions, and sufferings—those things that happened to me at Antioch, Iconium, and Lystra. I endured those persecutions. The Lord delivered me out of them all."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "Yes, and all who desire to live godly in Christ Jesus will suffer persecution."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "But evil men and impostors will grow worse and worse, deceiving and being deceived."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "But you remain in the things which you have learned and have been assured of, knowing from whom you have learned them."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "From infancy, you have known the holy Scriptures which are able to make you wise for salvation through faith which is in Christ Jesus."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 17,
+              "segments": [
+                {
+                  "text": "that each person who belongs to God may be complete, thoroughly equipped for every good work."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom:"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "preach the word; be urgent in season and out of season; reprove, rebuke, and exhort with all patience and teaching."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "For the time will come when they will not listen to the sound doctrine, but having itching ears, will heap up for themselves teachers after their own lusts,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "and will turn away their ears from the truth, and turn away to fables."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "But you be sober in all things, suffer hardship, do the work of an evangelist, and fulfill your ministry."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "For I am already being offered, and the time of my departure has come."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "I have fought the good fight. I have finished the course. I have kept the faith."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "From now on, the crown of righteousness is stored up for me, which the Lord, the righteous judge, will give to me on that day; and not to me only, but also to all those who have loved his appearing."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "Be diligent to come to me soon,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "for Demas left me, having loved this present world, and went to Thessalonica; Crescens to Galatia; and Titus to Dalmatia."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "Only Luke is with me. Take Mark and bring him with you, for he is useful to me for service."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "But I sent Tychicus to Ephesus."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "Bring the cloak that I left at Troas with Carpus when you come—and the books, especially the parchments."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "Alexander the coppersmith did much evil to me. The Lord will repay him according to his deeds."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "Beware of him, for he greatly opposed our words."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "At my first defense, no one came to help me, but all left me. May it not be held against them."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 17,
+              "segments": [
+                {
+                  "text": "But the Lord stood by me and strengthened me, that through me the message might be fully proclaimed, and that all the Gentiles might hear. So I was delivered out of the mouth of the lion."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 18,
+              "segments": [
+                {
+                  "text": "And the Lord will deliver me from every evil work and will preserve me for his heavenly Kingdom. To him be the glory forever and ever. Amen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 19,
+              "segments": [
+                {
+                  "text": "Greet Prisca and Aquila, and the house of Onesiphorus."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 20,
+              "segments": [
+                {
+                  "text": "Erastus remained at Corinth, but I left Trophimus at Miletus sick."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 21,
+              "segments": [
+                {
+                  "text": "Be diligent to come before winter. Eubulus salutes you, as do Pudens, Linus, Claudia, and all the brothers."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 22,
+              "segments": [
+                {
+                  "text": "The Lord Jesus Christ be with your spirit. Grace be with you. Amen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

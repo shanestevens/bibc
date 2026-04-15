@@ -1,0 +1,266 @@
+{
+  "name": "Jude",
+  "abbrev": "JUD",
+  "chapters": [
+    {
+      "number": 1,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "Jude, a servant of Jesus Christ, and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ:"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 2,
+              "segments": [
+                {
+                  "text": "May mercy, peace, and love be multiplied to you."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 3,
+              "segments": [
+                {
+                  "text": "Beloved, while I was very eager to write to you about our common salvation, I was constrained to write to you exhorting you to contend earnestly for the faith which was once for all delivered to the saints."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 4,
+              "segments": [
+                {
+                  "text": "For there are certain men who crept in secretly, even those who were long ago written about for this condemnation: ungodly men, turning the grace of our God into indecency, and denying our only Master, God, and Lord, Jesus Christ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 5,
+              "segments": [
+                {
+                  "text": "Now I desire to remind you, though you already know this, that the Lord, having saved a people out of the land of Egypt, afterward destroyed those who didn’t believe."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 6,
+              "segments": [
+                {
+                  "text": "Angels who didn’t keep their first domain, but deserted their own dwelling place, he has kept in everlasting bonds under darkness for the judgment of the great day."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 7,
+              "segments": [
+                {
+                  "text": "Even as Sodom and Gomorrah and the cities around them, having in the same way as these given themselves over to sexual immorality and gone after strange flesh, are shown as an example, suffering the punishment of eternal fire."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 8,
+              "segments": [
+                {
+                  "text": "Yet in the same way, these also in their dreaming defile the flesh, despise authority, and slander celestial beings."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 9,
+              "segments": [
+                {
+                  "text": "But Michael, the archangel, when contending with the devil and arguing about the body of Moses, dared not bring against him an abusive condemnation, but said, “May the Lord rebuke you!”"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 10,
+              "segments": [
+                {
+                  "text": "But these speak evil of whatever things they don’t know. They are destroyed in these things that they understand naturally, like the creatures without reason."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 11,
+              "segments": [
+                {
+                  "text": "Woe to them! For they went in the way of Cain, and ran riotously in the error of Balaam for hire, and perished in Korah’s rebellion."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 12,
+              "segments": [
+                {
+                  "text": "These are hidden rocky reefs in your love feasts when they feast with you, shepherds who without fear feed themselves; clouds without water, carried along by winds; autumn trees without fruit, twice dead, plucked up by the roots;"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 13,
+              "segments": [
+                {
+                  "text": "wild waves of the sea, foaming out their own shame; wandering stars, for whom the blackness of darkness has been reserved forever."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 14,
+              "segments": [
+                {
+                  "text": "About these also Enoch, the seventh from Adam, prophesied, saying, “Behold, the Lord came with ten thousands of his holy ones,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 15,
+              "segments": [
+                {
+                  "text": "to execute judgment on all, and to convict all the ungodly of all their works of ungodliness which they have done in an ungodly way, and of all the hard things which ungodly sinners have spoken against him.”"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 16,
+              "segments": [
+                {
+                  "text": "These are murmurers and complainers, walking after their lusts—and their mouth speaks proud things—showing respect of persons to gain advantage."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 17,
+              "segments": [
+                {
+                  "text": "But you, beloved, remember the words which have been spoken before by the apostles of our Lord Jesus Christ."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 18,
+              "segments": [
+                {
+                  "text": "They said to you, “In the last time there will be mockers, walking after their own ungodly lusts.”"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 19,
+              "segments": [
+                {
+                  "text": "These are those who cause divisions and are sensual, not having the Spirit."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 20,
+              "segments": [
+                {
+                  "text": "But you, beloved, keep building up yourselves on your most holy faith, praying in the Holy Spirit."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 21,
+              "segments": [
+                {
+                  "text": "Keep yourselves in God’s love, looking for the mercy of our Lord Jesus Christ to eternal life."
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 22,
+              "segments": [
+                {
+                  "text": "On some have compassion, making a distinction,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 23,
+              "segments": [
+                {
+                  "text": "and some save, snatching them out of the fire with fear, hating even the clothing stained by the flesh."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 24,
+              "segments": [
+                {
+                  "text": "Now to him who is able to keep them from stumbling, and to present you faultless before the presence of his glory in great joy,"
+                }
+              ]
+            },
+            {
+              "kind": "prose",
+              "num": 25,
+              "segments": [
+                {
+                  "text": "to God our Savior, who alone is wise, be glory and majesty, dominion and power, both now and forever. Amen."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3636 @@
+{
+  "name": "Song of Songs",
+  "abbrev": "SNG",
+  "chapters": [
+    {
+      "number": 1,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "The Song of songs, which is Solomon’s."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "heading": "Beloved",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let him kiss me with the kisses of his mouth;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for your love is better than wine."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your oils have a pleasing fragrance."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your name is oil poured out,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "therefore the virgins love you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Take me away with you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Let’s hurry."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The king has brought me into his rooms."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "We will be glad and rejoice in you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "We will praise your love more than wine!"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They are right to love you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I am dark, but lovely,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "you daughters of Jerusalem,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like Kedar’s tents,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "like Solomon’s curtains."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Don’t stare at me because I am dark,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because the sun has scorched me."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My mother’s sons were angry with me."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They made me keeper of the vineyards."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I haven’t kept my own vineyard."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Tell me, you whom my soul loves,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "where you graze your flock,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "where you rest them at noon;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for why should I be as one who is veiled"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "beside the flocks of your companions?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "If you don’t know, most beautiful among women,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "follow the tracks of the sheep."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Graze your young goats beside the shepherds’ tents."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I have compared you, my love,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to a steed in Pharaoh’s chariots."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your cheeks are beautiful with earrings,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "your neck with strings of jewels."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "We will make you earrings of gold,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "with studs of silver."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "While the king sat at his table,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "my perfume spread its fragrance."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My beloved is to me a sachet of myrrh,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that lies between my breasts."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My beloved is to me a cluster of henna blossoms"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "from the vineyards of En Gedi."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Behold, you are beautiful, my love."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Behold, you are beautiful."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your eyes are like doves."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Behold, you are beautiful, my beloved, yes, pleasant;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and our couch is verdant."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The beams of our house are cedars."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Our rafters are firs."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "heading": "Beloved",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I am a rose of Sharon,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a lily of the valleys."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "As a lily among thorns,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "so is my love among the daughters."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "As the apple tree among the trees of the wood,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "so is my beloved among the sons."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I sat down under his shadow with great delight,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "his fruit was sweet to my taste."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He brought me to the banquet hall."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "His banner over me is love."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Strengthen me with raisins,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "refresh me with apples;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for I am faint with love."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "His left hand is under my head."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "His right hand embraces me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I adjure you, daughters of Jerusalem,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "by the roes, or by the hinds of the field,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that you not stir up, nor awaken love,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "until it so desires."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The voice of my beloved!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Behold, he comes,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "leaping on the mountains,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "skipping on the hills."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My beloved is like a roe or a young deer."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Behold, he stands behind our wall!"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He looks in at the windows."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He glances through the lattice."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My beloved spoke, and said to me,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Rise up, my love, my beautiful one, and come away."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "For behold, the winter is past."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The rain is over and gone."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The flowers appear on the earth."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The time of the singing has come,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the voice of the turtledove is heard in our land."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The fig tree ripens her green figs."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The vines are in blossom."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They give out their fragrance."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Arise, my love, my beautiful one,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and come away.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My dove in the clefts of the rock,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "in the hiding places of the mountainside,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "let me see your face."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Let me hear your voice;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for your voice is sweet and your face is lovely."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Catch for us the foxes,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the little foxes that plunder the vineyards;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for our vineyards are in blossom."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My beloved is mine, and I am his."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He browses among the lilies."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 17,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Until the day is cool, and the shadows flee away,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "turn, my beloved,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and be like a roe or a young deer on the mountains of Bether."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "heading": "Beloved",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "By night on my bed,"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I will get up now, and go about the city;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "in the streets and in the squares I will seek him whom my soul loves."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I sought him, but I didn’t find him."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The watchmen who go about the city found me;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Have you seen him whom my soul loves?”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I had scarcely passed from them,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "when I found him whom my soul loves."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I held him, and would not let him go,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "until I had brought him into my mother’s house,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "into the room of her who conceived me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I adjure you, daughters of Jerusalem,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "by the roes, or by the hinds of the field,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that you not stir up nor awaken love,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "until it so desires."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Who is this who comes up from the wilderness like pillars of smoke,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "perfumed with myrrh and frankincense,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "with all spices of the merchant?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Behold, it is Solomon’s carriage!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Sixty mighty men are around it,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "of the mighty men of Israel."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "They all handle the sword, and are expert in war."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Every man has his sword on his thigh,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "because of fear in the night."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "King Solomon made himself a carriage"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "of the wood of Lebanon."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "He made its pillars of silver,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "its bottom of gold, its seat of purple,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the middle of it being paved with love,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "from the daughters of Jerusalem."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Go out, you daughters of Zion, and see King Solomon,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "with the crown with which his mother has crowned him,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "in the day of his weddings,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "in the day of the gladness of his heart."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "heading": "Lover",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "Behold, you are beautiful, my love."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your teeth are like a newly shorn flock,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "which have come up from the washing,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "where every one of them has twins."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "None is bereaved among them."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your lips are like scarlet thread."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your mouth is lovely."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your temples are like a piece of a pomegranate behind your veil."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your neck is like David’s tower built for an armory,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "on which a thousand shields hang,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "all the shields of the mighty men."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your two breasts are like two fawns"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that are twins of a roe,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "which feed among the lilies."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Until the day is cool, and the shadows flee away,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will go to the mountain of myrrh,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to the hill of frankincense."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You are all beautiful, my love."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There is no spot in you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Come with me from Lebanon, my bride,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "with me from Lebanon."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Look from the top of Amana,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "from the top of Senir and Hermon,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "from the lions’ dens,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "from the mountains of the leopards."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You have ravished my heart, my sister, my bride."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "You have ravished my heart with one of your eyes,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "with one chain of your neck."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "How beautiful is your love, my sister, my bride!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "How much better is your love than wine,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the fragrance of your perfumes than all kinds of spices!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your lips, my bride, drip like the honeycomb."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Honey and milk are under your tongue."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The smell of your garments is like the smell of Lebanon."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My sister, my bride, is a locked up garden;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a locked up spring,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a sealed fountain."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your shoots are an orchard of pomegranates, with precious fruits,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "henna with spikenard plants,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "spikenard and saffron,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "calamus and cinnamon, with every kind of incense tree;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "myrrh and aloes, with all the best spices,"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a fountain of gardens,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a well of living waters,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "flowing streams from Lebanon."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Awake, north wind, and come, you south!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Blow on my garden, that its spices may flow out."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let my beloved come into his garden,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and taste his precious fruits."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "heading": "Lover",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I have come into my garden, my sister, my bride."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I have gathered my myrrh with my spice;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I have eaten my honeycomb with my honey;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I have drunk my wine with my milk."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Eat, friends!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Drink, yes, drink abundantly, beloved."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I was asleep, but my heart was awake."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "It is the voice of my beloved who knocks:"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "“Open to me, my sister, my love, my dove, my undefiled;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for my head is filled with dew,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and my hair with the dampness of the night.”"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I have taken off my robe. Indeed, must I put it on?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I have washed my feet. Indeed, must I soil them?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My beloved thrust his hand in through the latch opening."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My heart pounded for him."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I rose up to open for my beloved."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "My hands dripped with myrrh,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "my fingers with liquid myrrh,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "on the handles of the lock."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I opened to my beloved;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "but my beloved left, and had gone away."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My heart went out when he spoke."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I looked for him, but I didn’t find him."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I called him, but he didn’t answer."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The watchmen who go about the city found me."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They beat me."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "They bruised me."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The keepers of the walls took my cloak away from me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I adjure you, daughters of Jerusalem,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "If you find my beloved,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that you tell him that I am faint with love."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "How is your beloved better than another beloved,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "you fairest among women?"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "How is your beloved better than another beloved,"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "that you do so adjure us?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My beloved is white and ruddy."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The best among ten thousand."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "His head is like the purest gold."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "His hair is bushy, black as a raven."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "His eyes are like doves beside the water brooks,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "washed with milk, mounted like jewels."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "His cheeks are like a bed of spices with towers of perfumes."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "His lips are like lilies, dropping liquid myrrh."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "His hands are like rings of gold set with beryl."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "His body is like ivory work overlaid with sapphires."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 15,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "His legs are like pillars of marble set on sockets of fine gold."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "His appearance is like Lebanon, excellent as the cedars."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 16,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "His mouth is sweetness;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "yes, he is altogether lovely."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "This is my beloved, and this is my friend,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "daughters of Jerusalem."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "paragraphs": [
+        {
+          "type": "poetry",
+          "heading": "Friends",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 1,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Where has your beloved gone, you fairest among women?"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Where has your beloved turned, that we may seek him with you?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My beloved has gone down to his garden,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to the beds of spices,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to pasture his flock in the gardens, and to gather lilies."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I am my beloved’s, and my beloved is mine."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He browses among the lilies."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You are beautiful, my love, as Tirzah,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "lovely as Jerusalem,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "awesome as an army with banners."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Turn away your eyes from me,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for they have overcome me."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your hair is like a flock of goats,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that lie along the side of Gilead."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your teeth are like a flock of ewes,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "which have come up from the washing,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "of which every one has twins;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "not one is bereaved among them."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your temples are like a piece of a pomegranate behind your veil."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "There are sixty queens, eighty concubines,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and virgins without number."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My dove, my perfect one, is unique."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "She is her mother’s only daughter."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "She is the favorite one of her who bore her."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The daughters saw her, and called her blessed."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The queens and the concubines saw her, and they praised her."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Who is she who looks out as the morning,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "beautiful as the moon,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "clear as the sun,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and awesome as an army with banners?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I went down into the nut tree grove,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to see the green plants of the valley,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "to see whether the vine budded,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the pomegranates were in flower."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Without realizing it,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "my desire set me with my royal people’s chariots."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Return, return, Shulammite!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Return, return, that we may gaze at you."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Why do you desire to gaze at the Shulammite,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "as at the dance of Mahanaim?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "heading": "Lover",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "How beautiful are your feet in sandals, prince’s daughter!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your body is like a round goblet,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "no mixed wine is wanting."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your waist is like a heap of wheat,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "set about with lilies."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your two breasts are like two fawns,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that are twins of a roe."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your neck is like an ivory tower."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your eyes are like the pools in Heshbon by the gate of Bathrabbim."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Your nose is like the tower of Lebanon which looks toward Damascus."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your head on you is like Carmel."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The hair of your head like purple."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The king is held captive in its tresses."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "How beautiful and how pleasant you are,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "love, for delights!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "This, your stature, is like a palm tree,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "your breasts like its fruit."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I said, “I will climb up into the palm tree."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "I will take hold of its fruit.”"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let your breasts be like clusters of the vine,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "the smell of your breath like apples."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Your mouth is like the best wine,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that goes down smoothly for my beloved,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "gliding through the lips of those who are asleep."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I am my beloved’s."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "His desire is toward me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Come, my beloved! Let’s go out into the field."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Let’s lodge in the villages."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Let’s go early up to the vineyards."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Let’s see whether the vine has budded,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "its blossom is open,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "and the pomegranates are in flower."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There I will give you my love."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "The mandrakes produce fragrance."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "At our doors are all kinds of precious fruits, new and old,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "which I have stored up for you, my beloved."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "paragraphs": [
+        {
+          "type": "prose",
+          "heading": "Beloved",
+          "verses": [
+            {
+              "kind": "prose",
+              "num": 1,
+              "segments": [
+                {
+                  "text": "Oh that you were like my brother,"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "poetry",
+          "verses": [
+            {
+              "kind": "poetry",
+              "num": 2,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I would lead you, bringing you into the house of my mother,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "who would instruct me."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I would have you drink spiced wine,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "of the juice of my pomegranate."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 3,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "His left hand would be under my head."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "His right hand would embrace me."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 4,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I adjure you, daughters of Jerusalem,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "that you not stir up, nor awaken love,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "until it so desires."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 5,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Who is this who comes up from the wilderness,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "leaning on her beloved?"
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Under the apple tree I awakened you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There your mother conceived you."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "There she was in labor and bore you."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 6,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Set me as a seal on your heart,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "as a seal on your arm;"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "for love is strong as death."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Jealousy is as cruel as Sheol."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Its flashes are flashes of fire,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "a very flame of the LORD."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 7,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Many waters can’t quench love,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "neither can floods drown it."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "If a man would give all the wealth of his house for love,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "he would be utterly scorned."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 8,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "We have a little sister."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "She has no breasts."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "What shall we do for our sister"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "in the day when she is to be spoken for?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 9,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "If she is a wall,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "we will build on her a turret of silver."
+                    }
+                  ]
+                },
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "If she is a door,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "we will enclose her with boards of cedar."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 10,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "I am a wall, and my breasts like towers,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "then I was in his eyes like one who found peace."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 11,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Solomon had a vineyard at Baal Hamon."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "He leased out the vineyard to keepers."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Each was to bring a thousand shekels of silver for its fruit."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 12,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "My own vineyard is before me."
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "The thousand are for you, Solomon,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "two hundred for those who tend its fruit."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 13,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "You who dwell in the gardens, with friends in attendance,"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "let me hear your voice!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "poetry",
+              "num": 14,
+              "lines": [
+                {
+                  "level": 1,
+                  "segments": [
+                    {
+                      "text": "Come away, my beloved!"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "segments": [
+                    {
+                      "text": "Be like a gazelle or a young stag on the mountains of spices!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -26,11 +26,11 @@ export default defineConfig({
             },
           },
           {
-            urlPattern: /\/search-index\.json$/,
+            urlPattern: /\/search-index-\w+\.json$/,
             handler: 'CacheFirst',
             options: {
               cacheName: 'bible-search',
-              expiration: { maxEntries: 1, maxAgeSeconds: 60 * 60 * 24 * 365 },
+              expiration: { maxEntries: 3, maxAgeSeconds: 60 * 60 * 24 * 365 },
             },
           },
           {
